@@ -4,6 +4,7 @@ This is a comprehensive list of books I've read.
 
 # 2019
 
+* [Rich Dad, Poor Dad](https://www.amazon.es/Rich-Dad-Poor-Teach-Middle/dp/1612680011) _Robert T. Kiyosaki_
 * [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) (not finished)  _by Ken Bain_
 * [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) (not finished) _by Dann Simmons_
 * [Designing Data-Intensive Applications](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Designing+Data-Intensive+Applications&qid=1571689563&sr=8-1) (not finished) _by Martin Kleppmann_
