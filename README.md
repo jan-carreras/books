@@ -8,6 +8,7 @@ This is a comprehensive list of books I've read.
 * [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) (not finished)  _by Ken Bain_
 * [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) (not finished) _by Dann Simmons_
 * [Designing Data-Intensive Applications](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Designing+Data-Intensive+Applications&qid=1571689563&sr=8-1) (not finished) _by Martin Kleppmann_
+* [Never Split The Difference](https://www.amazon.es/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) _Chris Voss_
 * [The Essential Drucker](https://www.amazon.es/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the+essential+drucker&qid=1571689536&sr=8-1) by _Peter F. Drucker_ (Audiobook)
 * [Screw It, Let's Do It!](https://www.amazon.es/Screw-Lets-Do-Lessons-Quick/dp/0753510995) _by Richard Manson_
 * [Who Moved My Cheese](https://www.amazon.es/Who-Moved-My-Cheese-Teens/dp/0091894506/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=who+are+my+cheese&qid=1571689664&sr=8-1) _by Dr Spencer Johnson_
