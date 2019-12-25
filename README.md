@@ -5,7 +5,7 @@ This is a comprehensive list of books I've read.
 # 2019
 
 * [Educated](https://www.amazon.es/Educated-Memoir-Tara-Westover/dp/1984854852/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=educated&qid=1575736325&sr=8-1) by _Tara Westover_
-* [Imbatible: La f—rmula para alcanzar la libertad financiera](https://www.amazon.es/Imbatible-alcanzar-libertad-financiera-colecci%C3%B3n/dp/8423430766/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imbatible&qid=1577296856&sr=8-1) by _Tonny Robbins_
+* [Imbatible: La fórmula para alcanzar la libertad financiera](https://www.amazon.es/Imbatible-alcanzar-libertad-financiera-colecci%C3%B3n/dp/8423430766/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imbatible&qid=1577296856&sr=8-1) by _Tonny Robbins_
 * [Atomic Habits](https://www.amazon.es/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=atomic+habits&qid=1575736224&sr=8-1) _James Clear_
 * [Rich Dad, Poor Dad](https://www.amazon.es/Rich-Dad-Poor-Teach-Middle/dp/1612680011) _Robert T. Kiyosaki_
 * [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) (not finished)  _by Ken Bain_
