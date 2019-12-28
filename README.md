@@ -16,7 +16,7 @@ This is a comprehensive list of books I've read.
 * [The Essential Drucker](https://www.amazon.es/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the+essential+drucker&qid=1571689536&sr=8-1) by _Peter F. Drucker_ (Audiobook)
 * [Screw It, Let's Do It!](https://www.amazon.es/Screw-Lets-Do-Lessons-Quick/dp/0753510995) _by Richard Manson_
 * [Who Moved My Cheese](https://www.amazon.es/Who-Moved-My-Cheese-Teens/dp/0091894506/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=who+are+my+cheese&qid=1571689664&sr=8-1) _by Dr Spencer Johnson_
-* [Steve Jobs](https://www.amazon.es/Steve-Jobs-SELLER-Walter-Isaacson/dp/8499897312/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steve%20jobs&qid=1571690287&sr=8-1) (not finished) _by Walter Isaacson_
+* [Steve Jobs](https://www.amazon.es/Steve-Jobs-SELLER-Walter-Isaacson/dp/8499897312/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steve%20jobs&qid=1571690287&sr=8-1) _by Walter Isaacson_
 
 # 2018
 
