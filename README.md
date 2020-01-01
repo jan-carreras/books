@@ -8,6 +8,12 @@ This is a comprehensive list of books I've read.
 * [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) _by Dann Simmons_
 * [Designing Data-Intensive Applications](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Designing+Data-Intensive+Applications&qid=1571689563&sr=8-1) _by Martin Kleppmann_
 
+# 2020
+
+### Q1
+
+* [Out of My Mind](https://www.amazon.es/Out-My-Mind-Alan-Arkin/dp/1799723704/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Out+of+My+Mind+alan&qid=1577888021&sr=8-1) by _Alan Arkin_ (audiobook). 2/10
+
 # 2019
 
 * [The Man on the Mountaintop](https://www.audible.com/pd/The-Man-on-the-Mountaintop-Audiobook/B075Y4SWJ8?qid=1577713899&sr=1-1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=228052ANH5W3WCX2E0VR&ref=a_search_c3_lProduct_1_1) by _Susan Trott_ (Audiobook)
