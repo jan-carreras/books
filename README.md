@@ -14,6 +14,7 @@ This is a comprehensive list of books I've read.
 
 ### Q1
 
+* [Sobre la Brevedad de la Vida](http://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf) by _Séneca_ 9/10
 * [Out of My Mind](https://www.amazon.es/Out-My-Mind-Alan-Arkin/dp/1799723704/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Out+of+My+Mind+alan&qid=1577888021&sr=8-1) by _Alan Arkin_ (audiobook). 2/10
 
 # 2019
