@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-03 [The Subtle Art of Not Giving a F*ck](https://www.amazon.es/Subtle-Art-Not-Giving/dp/0062641549/) by _Mark Manson_
 * 2020-01-02 [The War of Art](https://www.amazon.com/dp/1936891026) by _Steven Pressfield_
 * 2020-01-01 [The three minute rule](https://www.amazon.com/dp/0525540725/) by _Brant Pinvidic_
 
