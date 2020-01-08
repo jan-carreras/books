@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-08 [Tribes](amazon.es/Tribes-We-need-you-lead/dp/0749939753/) by _Seth Godin_
 * 2020-01-07 [The Compound Effect](https://www.amazon.com/dp/159315724X/) by _Darren Hardy_
 * 2020-01-06 [Measure What Matters](amazon.es/Measure-What-Matters-Google-Foundation/dp/0525536221) by _John Doerr_
 * 2020-01-05 [Getting Things Done](https://www.amazon.es/Getting-Things-Done-Arts-Stresss/dp/0349408947/) by _David Allen_
