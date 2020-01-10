@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-10 Thinking Fast and Slow by _Daniel Kahneman_
 * 2020-01-09 Get Your Sh*t Together by _Sarah Knight_
 * 2020-01-08 [Tribes](amazon.es/Tribes-We-need-you-lead/dp/0749939753/) by _Seth Godin_
 * 2020-01-07 [The Compound Effect](https://www.amazon.com/dp/159315724X/) by _Darren Hardy_
