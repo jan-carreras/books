@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-11 Deep Work by _Cal Newport_
 * 2020-01-10 Thinking Fast and Slow by _Daniel Kahneman_
 * 2020-01-09 Get Your Sh*t Together by _Sarah Knight_
 * 2020-01-08 [Tribes](amazon.es/Tribes-We-need-you-lead/dp/0749939753/) by _Seth Godin_
