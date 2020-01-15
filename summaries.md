@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-15 All Marketers Are Liars by _Seth Godin_
 * 2020-01-14 Value Proposition Design by _Alexander Osterwalder & Co_
 * 2020-01-13 A Biography of Loneliness by _Fay Bound Alberti_
 * 2020-01-12 How Democracies Die by _Daniel Ziblatt & Steven Levitsky_
