@@ -1,5 +1,7 @@
 # Summaries
 
+* 2020-01-19 Great Thinkers by _by The School of Life, Alain de Botton_
+* 2020-01-18 The Courage To Be Disliked
 * 2020-01-17 12 Rules For Life by _Jordan B. Peterson_
 * 2020-01-16 Talking to Strangers by _Malcolm Gladwell_
 * 2020-01-15 All Marketers Are Liars by _Seth Godin_
