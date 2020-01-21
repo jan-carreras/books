@@ -1,5 +1,7 @@
 # Summaries
 
+* 2020-01-21 Do What You are by _Paul D. Tiger_
+* 2020-01-20 The Dip by _Seth Godin_
 * 2020-01-19 Great Thinkers by _by The School of Life, Alain de Botton_
 * 2020-01-18 The Courage To Be Disliked
 * 2020-01-17 12 Rules For Life by _Jordan B. Peterson_
