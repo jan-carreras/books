@@ -5,7 +5,7 @@ This is a comprehensive list of books I've read.
 # Reading
 
 
-* [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) _by Dann Simmons_
+
 * [Designing Data-Intensive Applications](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Designing+Data-Intensive+Applications&qid=1571689563&sr=8-1) _by Martin Kleppmann_
 * [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.audible.com/pd/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=0PNKR0V7M549HTDB182K&ref=a_lib_c4_libItem_B00ZB7Q1RS) by _Jason M. Satterfield_ (audiobook)
 * [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.es/Start-Why-Leaders-Inspire-Everyone/dp/0241958229/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=start+with+why&qid=1577902371&sr=8-1) by _Simon Sinek_
@@ -14,9 +14,10 @@ This is a comprehensive list of books I've read.
 
 ### Q1
 
-* [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) _by Ken Bain_
-* [El método de la amabilidad](https://www.amazon.es/El-m%C3%A9todo-amabilidad-quererte-propongas/dp/840351977X/) by _Shahroo Izadi_ 6/10
-* [Sobre la Brevedad de la Vida](http://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf) by _Séneca_ 9/10
+* [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) _by Dann Simmons_. 4/10
+* [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) _by Ken Bain_. 7/10
+* [El método de la amabilidad](https://www.amazon.es/El-m%C3%A9todo-amabilidad-quererte-propongas/dp/840351977X/) by _Shahroo Izadi_. 6/10
+* [Sobre la Brevedad de la Vida](http://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf) by _Séneca_. 9/10
 * [Out of My Mind](https://www.amazon.es/Out-My-Mind-Alan-Arkin/dp/1799723704/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Out+of+My+Mind+alan&qid=1577888021&sr=8-1) by _Alan Arkin_ (audiobook). 2/10
 
 # 2019
