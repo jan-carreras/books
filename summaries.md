@@ -1,5 +1,6 @@
 # Summaries
 
+* 2020-01-03 Do The Work by _Steven Pressfield_
 * 2020-01-21 Do What You Are by _Paul D. Tiger_
 * 2020-01-20 The Dip by _Seth Godin_
 * 2020-01-19 Great Thinkers by _by The School of Life, Alain de Botton_
