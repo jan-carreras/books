@@ -14,6 +14,7 @@ This is a comprehensive list of books I've read.
 
 ### Q1
 
+* [Interview with the Robot](https://www.amazon.com/Interview-with-the-Robot/dp/B082P61QFZ) by _Lee Bacon_. (audiobook) 5/10
 * [Power Moves: Lessons from Davos](https://www.amazon.com/Power-Moves-Lessons-from-Davos/dp/B07H4WPSS2) by _Adam Grant_ (audiobook). 7/10
 * [The Half-Life of Marie Curie](https://www.amazon.com/The-Half-Life-of-Marie-Curie/dp/B07ZWLRRZY) by _Lauren Gunderson_ (audiobook). 8/10
 * [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.audible.com/pd/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=0PNKR0V7M549HTDB182K&ref=a_lib_c4_libItem_B00ZB7Q1RS) by _Jason M. Satterfield_ (audiobook). 8/10
