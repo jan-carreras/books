@@ -10,7 +10,7 @@ This is a comprehensive list of books I've read.
 
 ### Q1
 
-* [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by _Peter C. Brown_ 7/10
+* [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by _Peter C. Brown_ 7/10 (audiobook)
 * [How Caffeine Created the Modern World](https://www.goodreads.com/book/show/50537223-caffeine) by _Michael Pollan_ (audiobook) 5/10
 * [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.es/Start-Why-Leaders-Inspire-Everyone/dp/0241958229/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=start+with+why&qid=1577902371&sr=8-1) by _Simon Sinek_. 8/10
 * [Interview with the Robot](https://www.amazon.com/Interview-with-the-Robot/dp/B082P61QFZ) by _Lee Bacon_. (audiobook) 5/10
