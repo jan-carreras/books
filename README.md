@@ -7,13 +7,14 @@ This is a comprehensive list of books I've read.
 * [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_
 * [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_
 * [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_
+* [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (autiobook)
 
 
 # 2020
 
 ### Q2
 
-* [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_. 10/10 (audiobook)
+* [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_ (audiobook) 10/10
 
 ### Q1
 
