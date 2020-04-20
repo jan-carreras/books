@@ -12,6 +12,7 @@ This is a comprehensive list of books I've read.
 
 ### Q2
 
+1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
 1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
 1. [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_ (audiobook) 10/10
