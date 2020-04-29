@@ -5,7 +5,7 @@ This is a comprehensive list of books I've read.
 # Reading
 
 1. [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_
-1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (autiobook)
+1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook)
 1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook)
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_
