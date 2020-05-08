@@ -6,7 +6,6 @@ This is a comprehensive list of books I've read.
 
 1. [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_
 1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook)
-1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook)
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_
 
@@ -15,6 +14,7 @@ This is a comprehensive list of books I've read.
 
 ### Q2
 
+1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook) 7/10
 1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
 1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
