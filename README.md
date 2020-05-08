@@ -1,7 +1,3 @@
-# Books I've read so far
-
-This is a comprehensive list of books I've read.
-
 # Reading
 
 1. [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_
@@ -9,6 +5,9 @@ This is a comprehensive list of books I've read.
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_
 
+# Books I've read so far
+
+This is a comprehensive list of books I've read.
 
 # 2020
 
