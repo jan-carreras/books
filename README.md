@@ -11,6 +11,10 @@ This is a comprehensive list of books I've read.
 
 # 2020
 
+### Q3
+
+1. [How to Become a Better Long-Distance Motorcycle Rider](https://www.goodreads.com/book/show/38480917-how-to-become-a-better-long-distance-motorcycle-rider) by _Pavlin Zhelev_ 7/10
+
 ### Q2
 
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_ 6/10
