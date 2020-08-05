@@ -1,6 +1,5 @@
 # Reading
 
-1. [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan) by _Nassim Nicholas Taleb_
 1. [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_
 1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook)
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
@@ -13,6 +12,7 @@ This is a comprehensive list of books I've read.
 
 ### Q3
 
+1. [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan) by _Nassim Nicholas Taleb_ 2/10
 1. [How to Become a Better Long-Distance Motorcycle Rider](https://www.goodreads.com/book/show/38480917-how-to-become-a-better-long-distance-motorcycle-rider) by _Pavlin Zhelev_ 7/10
 
 ### Q2
