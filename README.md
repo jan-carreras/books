@@ -5,6 +5,7 @@
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
+1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
 
 # Books I've read so far
 
