@@ -14,7 +14,7 @@ This is a comprehensive list of books I've read.
 
 # 2021
 
-1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10
+1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 _[summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)_
 
 
 # 2020
