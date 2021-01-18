@@ -8,9 +8,7 @@
 
 # Books I've read so far
 
-This is a comprehensive list of books I've read.
-
-⭐️ the ones that would recommend
+This is a comprehensive list of books I've read. ⭐️ are the ones that would recommend
 
 # 2021
 
@@ -19,22 +17,14 @@ This is a comprehensive list of books I've read.
 
 # 2020
 
-### Q3
-
 1. [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan) by _Nassim Nicholas Taleb_ 2/10
 1. [How to Become a Better Long-Distance Motorcycle Rider](https://www.goodreads.com/book/show/38480917-how-to-become-a-better-long-distance-motorcycle-rider) by _Pavlin Zhelev_ 7/10
-
-### Q2
-
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_ 6/10
 1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook) 7/10
 1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
 1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
 1. ⭐️ [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_ (audiobook) 10/10
-
-### Q1
-
 1. [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by _Peter C. Brown_ 7/10 (audiobook)
 1. [How Caffeine Created the Modern World](https://www.goodreads.com/book/show/50537223-caffeine) by _Michael Pollan_ (audiobook) 5/10
 1. ⭐️ [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.es/Start-Why-Leaders-Inspire-Everyone/dp/0241958229/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=start+with+why&qid=1577902371&sr=8-1) by _Simon Sinek_. 8/10
