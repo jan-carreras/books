@@ -12,7 +12,6 @@ This is a comprehensive list of books I've read. ⭐️ are the ones that would 
 
 1. ⭐️ [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_ 9/10
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 _[summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)_
-1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook) 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSapMcqVO6z_RIkKcHd29xoE_rdeTGxqjOX7e8u8IlZNNcHO_9IH_wqhD15QI0JtctBreII_udBEjHK/pub)
 
 
 # 2020
@@ -21,6 +20,7 @@ This is a comprehensive list of books I've read. ⭐️ are the ones that would 
 1. [How to Become a Better Long-Distance Motorcycle Rider](https://www.goodreads.com/book/show/38480917-how-to-become-a-better-long-distance-motorcycle-rider) by _Pavlin Zhelev_ 7/10
 1. [The More You Do The Better You Feel: How to Overcome Procrastination and Live a Happier Life](https://www.goodreads.com/book/show/35826227-the-more-you-do-the-better-you-feel) by _David Parker_ 6/10
 1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook) 7/10
+1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook) 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSapMcqVO6z_RIkKcHd29xoE_rdeTGxqjOX7e8u8IlZNNcHO_9IH_wqhD15QI0JtctBreII_udBEjHK/pub)
 1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
 1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
