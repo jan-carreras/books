@@ -63,3 +63,5 @@
 
 
 _Disclaimer: Summaries are personal and meant to have meaning to me. Parts of the book may have been ignored because when I read them were not that relevant to me._
+
+[Wish list](https://www.amazon.es/hz/wishlist/ls/2W5KVSEOLGJYS?ref_=wl_share&viewType=list). I'll always remember and be grateful to the person that sends me a book (specially if used). If you want something from my read list, just ask me :)
