@@ -4,9 +4,6 @@
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
 
-# Books I've read so far
-
-This is a comprehensive list of books I've read. ⭐️ are the ones that would recommend
 
 # 2021
 
@@ -64,3 +61,5 @@ This is a comprehensive list of books I've read. ⭐️ are the ones that would 
 1. [4 Hour Workweek](https://www.amazon.es/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=4%20Hour%20Workweek&qid=1571690122&sr=8-1) _by Tim Ferriss_
 1. ⭐️ [The Millionaire Fastlane](https://www.amazon.es/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the%20millionaire%20fastlane&qid=1571690156&sr=8-1) _by M. J. DeMarco_. 8/10
 
+
+_Disclaimer: Summaries are personal and meant to have meaning to me. Parts of the book may have been ignored because when I read them were not that relevant to me._
