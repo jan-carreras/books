@@ -1,6 +1,5 @@
 # Reading
 
-1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook)
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
@@ -13,6 +12,7 @@ This is a comprehensive list of books I've read. ⭐️ are the ones that would 
 
 1. ⭐️ [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_ 9/10
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 _[summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)_
+1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook) 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSapMcqVO6z_RIkKcHd29xoE_rdeTGxqjOX7e8u8IlZNNcHO_9IH_wqhD15QI0JtctBreII_udBEjHK/pub)
 
 
 # 2020
