@@ -3,6 +3,7 @@
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
+1. [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by _Robert C. Martin_
 
 
 # 2021
