@@ -8,10 +8,10 @@
 
 # 2021
 
+1. [Clean Code: A Handbook of Agile Software Craftsmanship](Clean Code: A Handbook of Agile Software Craftsmanship) by _Robert C. Martin_ 7/10
 1. [Los cuatro acuerdos](https://www.goodreads.com/book/show/30119613-cuatro-acuerdos) by _Miguel Ruiz_ 1/10
 1. ⭐️ [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_ 9/10
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 _[summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)_
-1. [Clean Code: A Handbook of Agile Software Craftsmanship](Clean Code: A Handbook of Agile Software Craftsmanship) by _Robert C. Martin_ 7/10
 
 
 # 2020
