@@ -4,6 +4,7 @@
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
 1. [Carta al padre](https://www.goodreads.com/book/show/34645951-carta-al-padre-y-meditaciones) by _Franz Kafka_
+1. [El Príncipe](https://www.goodreads.com/book/show/50258200-el-pr-ncipe) by _Nicolás Maquiavelo_
 
 
 # 2021
