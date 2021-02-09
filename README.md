@@ -1,12 +1,12 @@
 # Reading
 
-1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook)
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
 
 
 # 2021
 
+1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook) 9/10
 1. [El Principito](https://www.goodreads.com/ps/book/show/33271472-el-principito) by _Antoine de Saint-Exupéry_ 6/10
 1. [Carta al padre](https://www.goodreads.com/book/show/24954936-carta-al-padre) by _Franz Kafka_ 7/10
 1. [Show Your Work! 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/book/show/18290401-show-your-work) by _Austin Kleon_ 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSYBmkj_iSSrTgbYVQhZC5iE8liTdxDyDpr90npuwyOpcMZZcHZPljOoCECduUuGx_sWxlJVbTXVoZY/pub)
