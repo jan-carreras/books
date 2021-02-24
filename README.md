@@ -6,6 +6,7 @@
 
 # 2021
 
+1. [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by _Ashlee Vance_ (audiobook) 8/10
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook) 9/10
 1. [El Principito](https://www.goodreads.com/ps/book/show/33271472-el-principito) by _Antoine de Saint-Exupéry_ 6/10
 1. [Carta al padre](https://www.goodreads.com/book/show/24954936-carta-al-padre) by _Franz Kafka_ 7/10
