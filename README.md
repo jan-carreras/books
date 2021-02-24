@@ -2,6 +2,7 @@
 
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land) by _Barack Obama_ (audiobook)
+1. [Cut and Run](https://www.goodreads.com/book/show/5199022-cut-run) by _Madeleine Urban, Abigail Roux_ (audiobook)
 
 
 # 2021
