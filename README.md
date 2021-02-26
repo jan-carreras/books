@@ -3,6 +3,7 @@
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [Cut and Run](https://www.goodreads.com/book/show/5199022-cut-run) by _Madeleine Urban, Abigail Roux_ (audiobook)
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
+1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 
 
 # 2021
