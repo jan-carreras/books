@@ -5,6 +5,7 @@
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [Ten Drugs: How Plants, Powders, and Pills Have Shaped the History of Medicine](https://www.goodreads.com/book/show/41104130-ten-drugs) by _Thomas Hager_
+1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_
 
 
 # 2021
