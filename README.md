@@ -3,12 +3,12 @@
 1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
-1. [Ten Drugs: How Plants, Powders, and Pills Have Shaped the History of Medicine](https://www.goodreads.com/book/show/41104130-ten-drugs) by _Thomas Hager_
 1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_
 
 
 # 2021
 
+1. [Ten Drugs: How Plants, Powders, and Pills Have Shaped the History of Medicine](https://www.goodreads.com/book/show/41104130-ten-drugs) by _Thomas Hager_ 9/10
 1. [Cut and Run](https://www.goodreads.com/book/show/5199022-cut-run) by _Madeleine Urban, Abigail Roux_ (audiobook) 5/10
 1. [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by _Ashlee Vance_ (audiobook) 8/10
 1. [The Story of Human Language](https://www.goodreads.com/book/show/3328218-the-story-of-human-language) by _John McWhorter_ (audiobook) 9/10
