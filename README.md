@@ -4,6 +4,7 @@
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_
+1. [12 Rules for Life: An Antidote to Chaos](https://www.goodreads.com/book/show/30257963-12-rules-for-life) by _Jordan B. Peterson_ (audiobook)
 
 
 # 2021
