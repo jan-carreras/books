@@ -3,6 +3,7 @@
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_
+1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_
 
 
 # 2021
