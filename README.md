@@ -1,6 +1,5 @@
 # Reading
 
-1. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_
@@ -8,6 +7,7 @@
 
 # 2021
 
+1. ⭐️ [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_ 9/10
 1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_ 10/10
 1. ⭐️ [Ten Drugs: How Plants, Powders, and Pills Have Shaped the History of Medicine](https://www.goodreads.com/book/show/41104130-ten-drugs) by _Thomas Hager_ 9/10
 1. [Cut and Run](https://www.goodreads.com/book/show/5199022-cut-run) by _Madeleine Urban, Abigail Roux_ (audiobook) 5/10
