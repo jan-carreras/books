@@ -9,6 +9,7 @@
 
 # 2021
 
+1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10
 1. ⭐️ [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_ 9/10
 1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_ 10/10
