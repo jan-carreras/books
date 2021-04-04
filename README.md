@@ -37,7 +37,8 @@
 1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook) 7/10
 1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) _Richard Thaler_ (audiobook) 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSapMcqVO6z_RIkKcHd29xoE_rdeTGxqjOX7e8u8IlZNNcHO_9IH_wqhD15QI0JtctBreII_udBEjHK/pub)
 1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
-1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
+1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10 
+	1. [Essay about “Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
 1. ⭐️ [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_ (audiobook) 10/10
 1. [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by _Peter C. Brown_ 7/10 (audiobook)
