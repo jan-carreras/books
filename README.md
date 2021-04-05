@@ -3,12 +3,13 @@
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_
-1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_
+
 1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_
 
 
 # 2021
 
+1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10
 1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10
 1. ⭐️ [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_ 9/10
