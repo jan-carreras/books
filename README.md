@@ -9,7 +9,7 @@
 
 # 2021
 
-1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10
+1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 [summary](https://www.notion.so/Learning-to-Scale-b6be3c2ae139430a8cdfa51c12ec7c5f)
 1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10
 1. ⭐️ [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_ 9/10
