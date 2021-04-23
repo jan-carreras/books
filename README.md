@@ -2,12 +2,12 @@
 
 1. [Competitive Programmer's Handbook](https://www.goodreads.com/book/show/34861344-competitive-programmer-s-handbook) by _Antti Laaksonen_
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
-1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 
 
 # 2021
 
+1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
 1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10
 1. ⭐️ [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_ 10/10
 1. ❤️ [Ramon i la Màquina de les Emocions](https://www.amazon.es/El-Ramon-i-m%C3%A0quina-emocions/dp/B091CL5P7M/ref=sr_1_1?dchild=1&keywords=julia+carreras&qid=1618078597&sr=8-1) by _Júlia Carreras_ ∞/10
