@@ -8,7 +8,7 @@
 
 # 2021
 
-1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10
+1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
 1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10
 1. ⭐️ [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_ 10/10
