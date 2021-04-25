@@ -10,7 +10,7 @@
 
 1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
-1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10
+1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
 1. ⭐️ [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_ 10/10
 1. ❤️ [Ramon i la Màquina de les Emocions](https://www.amazon.es/El-Ramon-i-m%C3%A0quina-emocions/dp/B091CL5P7M/ref=sr_1_1?dchild=1&keywords=julia+carreras&qid=1618078597&sr=8-1) by _Júlia Carreras_ ∞/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 [summary](https://www.notion.so/Learning-to-Scale-b6be3c2ae139430a8cdfa51c12ec7c5f)
