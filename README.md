@@ -4,6 +4,7 @@
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell) by _John Warrillow_
+1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook)
 
 
 # 2021
