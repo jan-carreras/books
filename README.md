@@ -4,11 +4,11 @@
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell) by _John Warrillow_
-1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook)
 
 
 # 2021
 
+1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook) 5/10
 1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
 1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
