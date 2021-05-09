@@ -8,7 +8,7 @@
 
 # 2021
 
-1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10
+1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10 [summary](https://www.notion.so/A-Man-s-Search-for-Meaning-92002e0c50ad4e2fb551d5f2524eb01b)
 1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook) 5/10
 1. [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell) by _John Warrillow_ 5/10
 1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
