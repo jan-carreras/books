@@ -3,7 +3,7 @@
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
 1. [The Practicing Stoic: A Philosophical User's Manual](https://www.goodreads.com/en/book/show/37886498-the-practicing-stoic) by _Ward Farnsworth_ (audiobook)
-
+1. [Nada](https://www.goodreads.com/book/show/6647312-nothing) by _Janne Teller_
 
 # 2021
 
