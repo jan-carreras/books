@@ -4,11 +4,11 @@
 1. [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) by _Google_
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
-1. [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_
 
 
 # 2021
 
+1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10
 1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook) 5/10
 1. [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell) by _John Warrillow_ 5/10
 1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
