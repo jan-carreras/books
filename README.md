@@ -4,10 +4,10 @@
 1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
 1. [The Practicing Stoic: A Philosophical User's Manual](https://www.goodreads.com/en/book/show/37886498-the-practicing-stoic) by _Ward Farnsworth_ (audiobook)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ (audiobook)
-1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_
 
 # 2021
 
+1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_ 7/10
 1. [Nada](https://www.goodreads.com/book/show/6647312-nothing) by _Janne Teller_ 1/10
 1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10 [summary](https://www.notion.so/A-Man-s-Search-for-Meaning-92002e0c50ad4e2fb551d5f2524eb01b)
 1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ (audiobook) 5/10
