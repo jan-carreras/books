@@ -4,6 +4,7 @@
 1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
 1. [The Practicing Stoic: A Philosophical User's Manual](https://www.goodreads.com/en/book/show/37886498-the-practicing-stoic) by _Ward Farnsworth_ (audiobook)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ (audiobook)
+1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 
 # 2021
 
