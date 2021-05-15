@@ -7,7 +7,7 @@
 
 # 2021
 
-1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ (audiobook) 8/10
+1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ (audiobook) 8/10 [summary](https://www.notion.so/The-Compound-Effect-097e15edac63468bbaa7a79ae9b3d781)
 1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_ 7/10
 1. [Nada](https://www.goodreads.com/book/show/6647312-nothing) by _Janne Teller_ 1/10
 1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10 [summary](https://www.notion.so/A-Man-s-Search-for-Meaning-92002e0c50ad4e2fb551d5f2524eb01b)
