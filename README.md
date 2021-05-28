@@ -8,7 +8,7 @@
 
 # 2021
 
-1. [Jugar con el Corazón: La excelencia no es suficiente](https://www.goodreads.com/book/show/8470669-jugar-con-el-coraz-n) by _Xesco Espar_ 3/10
+1. [Jugar con el Corazón: La excelencia no es suficiente](https://www.goodreads.com/book/show/8470669-jugar-con-el-coraz-n) by _Xesco Espar_ 3/10 [summary](https://www.notion.so/Jugar-con-el-Coraz-n-abf56b5c533640ffa043ba1d71b320e3)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ (audiobook) 8/10 [summary](https://www.notion.so/The-Compound-Effect-097e15edac63468bbaa7a79ae9b3d781)
 1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_ 7/10
 1. [Nada](https://www.goodreads.com/book/show/6647312-nothing) by _Janne Teller_ 1/10
