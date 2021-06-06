@@ -7,6 +7,7 @@
 
 # 2021
 
+1. [How to Get Rich - Seek Wealth, Not Money or Status](https://nav.al/rich) by _Naval Ravikant_ (podcast) 10/10 
 1. [Aprende de los campeones](https://www.goodreads.com/book/show/15806570-aprender-de-los-campeones) by _Pep Martí_ 8/10
 1. [Un Mundo Aparte — 1 Europa y Asia](https://www.goodreads.com/book/show/27420723-un-mundo-aparte) by _Daniel Landa_ 9/10
 1. [Jugar con el Corazón: La excelencia no es suficiente](https://www.goodreads.com/book/show/8470669-jugar-con-el-coraz-n) by _Xesco Espar_ 3/10 [summary](https://www.notion.so/Jugar-con-el-Coraz-n-abf56b5c533640ffa043ba1d71b320e3)
