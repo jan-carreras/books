@@ -4,6 +4,7 @@
 1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_
+1. [El restaurante al final del mundo](https://www.goodreads.com/nl/book/show/38343947-los-autoestopistas-gal-cticos) by _Douglas Adams_
 
 # 2021
 
