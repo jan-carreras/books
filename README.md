@@ -1,12 +1,12 @@
 # Reading
 
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
-1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
-1. [The Practicing Stoic: A Philosophical User's Manual](https://www.goodreads.com/en/book/show/37886498-the-practicing-stoic) by _Ward Farnsworth_ (audiobook)
+1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 
 # 2021
 
+1. [The Practicing Stoic: A Philosophical User's Manual](https://www.goodreads.com/en/book/show/37886498-the-practicing-stoic) by _Ward Farnsworth_ (audiobook) 6/10
 1. [How to Get Rich](https://nav.al/rich) by _Naval Ravikant_ (podcast) 10/10  [summary](https://www.notion.so/How-to-Get-Rich-fe5564862585488fa6b000e9101c341f)
 1. [Aprende de los campeones](https://www.goodreads.com/book/show/15806570-aprender-de-los-campeones) by _Pep Martí_ 8/10
 1. [Un Mundo Aparte — 1 Europa y Asia](https://www.goodreads.com/book/show/27420723-un-mundo-aparte) by _Daniel Landa_ 9/10
