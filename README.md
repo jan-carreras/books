@@ -1,7 +1,7 @@
 # Reading
 
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
-1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert
+1. [El mesías de Dune](https://www.goodreads.com/is/book/show/53728.El_mes_as_de_Dune) by _Frank Herbert_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 
 # 2021
