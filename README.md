@@ -4,6 +4,7 @@
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_
 1. [El restaurante al final del mundo](https://www.goodreads.com/nl/book/show/38343947-los-autoestopistas-gal-cticos) by _Douglas Adams_
+1. [The Black Death: The World's Most Devastating Plague](https://www.goodreads.com/book/show/30361199-the-black-death) by _Dorsey Armstrong_ (audiobook)
 
 # 2021
 
