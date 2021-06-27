@@ -5,6 +5,7 @@
 1. [El restaurante al final del mundo](https://www.goodreads.com/nl/book/show/38343947-los-autoestopistas-gal-cticos) by _Douglas Adams_
 1. [Just as I Am](https://www.goodreads.com/en/book/show/50622390-just-as-i-am) by _Cicely Tyson_ (audiobook)
 1. [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
+1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
 
 # 2021
 
