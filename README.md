@@ -6,6 +6,7 @@
 1. [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
 1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
+1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 
 # 2021
 
