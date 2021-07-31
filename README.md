@@ -2,7 +2,6 @@
 
 1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
-1. [Just as I Am](https://www.goodreads.com/en/book/show/50622390-just-as-i-am) by _Cicely Tyson_ (audiobook)
 1. [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
 1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
@@ -12,6 +11,7 @@
 
 # 2021
 
+1. [Just as I Am](https://www.goodreads.com/en/book/show/50622390-just-as-i-am) by _Cicely Tyson_ (audiobook) 7/10
 1. [El restaurante al final del mundo](https://www.goodreads.com/nl/book/show/38343947-los-autoestopistas-gal-cticos) by _Douglas Adams_ 8/10
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 10/10
 1. [The Black Death: The World's Most Devastating Plague](https://www.goodreads.com/book/show/30361199-the-black-death) by _Dorsey Armstrong_ (audiobook) 8/10
