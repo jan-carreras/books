@@ -1,6 +1,5 @@
 # Reading
 
-1. [Blue Book - Volume 1](https://www.ecb.europa.eu/paym/intro/book/html/index.en.html) by _European Central Bank_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
 1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
@@ -8,7 +7,7 @@
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_
-1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_
+1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_ (audiobook)
 
 # 2021
 
