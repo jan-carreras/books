@@ -8,6 +8,7 @@
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_
 1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_ (audiobook)
+1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook)
 
 # 2021
 
