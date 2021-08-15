@@ -1,5 +1,6 @@
 # Reading
 
+1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_
 1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook)
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
