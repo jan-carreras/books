@@ -1,7 +1,6 @@
 # Reading
 
 1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_
-1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook)
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
@@ -9,6 +8,7 @@
 
 # 2021
 
+1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook) 5/10
 1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_ (audiobook) 4/10
 1. [Homeless to Billionaire: The 18 Principles of Wealth Attraction and Creating Unlimited Opportunity](https://www.goodreads.com/book/show/45012574-homeless-to-billionaire) by _Andres Pira_ (audiobook) 6/10
 1. [Just as I Am](https://www.goodreads.com/en/book/show/50622390-just-as-i-am) by _Cicely Tyson_ (audiobook) 7/10
