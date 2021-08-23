@@ -7,7 +7,7 @@
 
 # 2021
 
-1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_ 5/10
+1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_ 5/10 [summary](https://www.notion.so/Everybody-writes-c2540f79212b48f58067e4cf8feb0ab2)
 1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook) 5/10
 1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_ (audiobook) 4/10
 1. [Homeless to Billionaire: The 18 Principles of Wealth Attraction and Creating Unlimited Opportunity](https://www.goodreads.com/book/show/45012574-homeless-to-billionaire) by _Andres Pira_ (audiobook) 6/10
