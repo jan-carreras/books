@@ -3,7 +3,7 @@
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
-1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_
+1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_ (audiobook) [summary](https://www.notion.so/All-Marketers-Are-Liars-The-Power-of-Telling-Authentic-Stories-in-a-Low-Trust-World-6d823bf01ee249d0bdd39cdcb3d62de5)
 
 
 # 2021
