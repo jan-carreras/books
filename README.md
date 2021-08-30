@@ -3,11 +3,11 @@
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
-1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_ (audiobook) [summary](https://www.notion.so/All-Marketers-Are-Liars-The-Power-of-Telling-Authentic-Stories-in-a-Low-Trust-World-6d823bf01ee249d0bdd39cdcb3d62de5)
 
 
 # 2021
 
+1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_ (audiobook) [summary](https://www.notion.so/All-Marketers-Are-Liars-The-Power-of-Telling-Authentic-Stories-in-a-Low-Trust-World-6d823bf01ee249d0bdd39cdcb3d62de5)
 1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_ 5/10 [summary](https://www.notion.so/Everybody-writes-c2540f79212b48f58067e4cf8feb0ab2)
 1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ (audiobook) 5/10
 1. [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland) by _Lewis Carroll_ (audiobook) 4/10
