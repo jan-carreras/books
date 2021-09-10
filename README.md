@@ -7,6 +7,7 @@
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [how to - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_
 1. [No Fears, No Excuses: What You Need to Do to Have a Great Career](https://www.goodreads.com/book/show/25897950-no-fears-no-excuses) by _Larry Smith_ (audiobook)
+1. [How to Train Your Mind: Exploring the Productivity Benefits of Meditation](https://www.goodreads.com/book/show/56688463-how-to-train-your-mind) by _Chris Bailey_ (audiobook)
 
 
 # 2021
