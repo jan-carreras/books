@@ -3,6 +3,9 @@
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
+1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_
+1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
+1. [how to - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_
 
 
 # 2021
@@ -110,8 +113,6 @@
 # Paused
 
 1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
-1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_
-1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 
 _Disclaimer: Summaries are personal and meant to have meaning to me. Parts of the book may have been ignored because when I read them were not that relevant to me._
 
