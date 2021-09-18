@@ -123,3 +123,5 @@ _Disclaimer: Summaries are personal and meant to have meaning to me. Parts of th
 [Wish list](https://www.amazon.es/hz/wishlist/ls/2W5KVSEOLGJYS?ref_=wl_share&viewType=list). I'm always grateful to the person that sends me a book (specially if used).
 
 [This is how I read books](https://private.jcarreras.es/posts/books/).
+
+[Edit](https://bitbucket.org/jcarreras/books/src/master/README.md?mode=edit&at=master)
