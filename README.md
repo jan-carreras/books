@@ -1,6 +1,5 @@
 # Reading
 
-1. [How to Train Your Mind: Exploring the Productivity Benefits of Meditation](https://www.goodreads.com/book/show/56688463-how-to-train-your-mind) by _Chris Bailey_ (audiobook)
 1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
@@ -11,6 +10,7 @@
 
 # 2021
 
+1. [How to Train Your Mind: Exploring the Productivity Benefits of Meditation](https://www.goodreads.com/book/show/56688463-how-to-train-your-mind) by _Chris Bailey_ (audiobook) 6/10
 1. [No Fears, No Excuses: What You Need to Do to Have a Great Career](https://www.goodreads.com/book/show/25897950-no-fears-no-excuses) by _Larry Smith_ (audiobook) 9/10
 1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_ (audiobook) [summary](https://www.notion.so/All-Marketers-Are-Liars-The-Power-of-Telling-Authentic-Stories-in-a-Low-Trust-World-6d823bf01ee249d0bdd39cdcb3d62de5)
 1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_ 5/10 [summary](https://www.notion.so/Everybody-writes-c2540f79212b48f58067e4cf8feb0ab2)
