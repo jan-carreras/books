@@ -37,8 +37,8 @@
 1. [Built to Sell: Creating a Business That Can Thrive Without You](https://www.goodreads.com/book/show/10075698-built-to-sell) by _John Warrillow_ 5/10
 1. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership) by _Jocko Willink_ (audiobook) 6/10 [summary](https://www.notion.so/Extreme-ownership-5f09d46e316744459ce1a0c3b2e90a0c)
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
-1. [Communication Skills Training](Communication Skills Training: How to Talk to Anyone, Connect Effortlessly, Develop Charisma, and Become a People Person) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
-1. ⭐️ [La Luna es una cruel amante](https://es.wikipedia.org/wiki/La_Luna_es_una_cruel_amante) by _Robert A. Heinlein_ 10/10
+1. [Communication Skills Training](https://www.goodreads.com/book/show/53510854-communication-skills-training) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
+1. ⭐️ [La Luna es una cruel amante](https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress) by _Robert A. Heinlein_ 10/10
 1. ❤️ [Ramon i la Màquina de les Emocions](https://www.amazon.es/El-Ramon-i-m%C3%A0quina-emocions/dp/B091CL5P7M/ref=sr_1_1?dchild=1&keywords=julia+carreras&qid=1618078597&sr=8-1) by _Júlia Carreras_ ∞/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 [summary](https://www.notion.so/Learning-to-Scale-b6be3c2ae139430a8cdfa51c12ec7c5f)
 1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
@@ -55,9 +55,9 @@
 1. [El Príncipe](https://www.goodreads.com/book/show/50258200-el-pr-ncipe) by _Nicolás Maquiavelo_ 4/10
 1. [La Metamorfosis](https://www.goodreads.com/zh-TW/book/show/25921050-la-metamorfosis) by _Franz Kafka_ 7/10
 1. [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by _Robert C. Martin_ 5/10
-1. [Clean Code: A Handbook of Agile Software Craftsmanship](Clean Code: A Handbook of Agile Software Craftsmanship) by _Robert C. Martin_ 7/10
+1. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by _Robert C. Martin_ 7/10
 1. [Los cuatro acuerdos](https://www.goodreads.com/book/show/30119613-cuatro-acuerdos) by _Miguel Ruiz_ 1/10
-1. ⭐️ [Pensar rápido, pensar despacio](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-ENSAYO-PSICOLOGIA/dp/8490322503) by _Daniel Kahneman_ 9/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTHkftWcP0QpE_usKNHlx83TxIdBrE_2gViQfh-XjpdUZKNq1epGRVld3dAc0X83xn-MhKb4RYbc2Kr/pub)
+1. ⭐️ [Pensar rápido, pensar despacio](https://www.goodreads.com/book/show/38228086-pensar-r-pido-pensar-despacio) by _Daniel Kahneman_ 9/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTHkftWcP0QpE_usKNHlx83TxIdBrE_2gViQfh-XjpdUZKNq1epGRVld3dAc0X83xn-MhKb4RYbc2Kr/pub)
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 [summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)
 
 
