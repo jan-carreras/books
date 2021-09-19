@@ -1,5 +1,13 @@
-- pipe: atlassian/ssh-run:0.3.1
-  variables:
-    SSH_USER: 'books'
-    SERVER: '167.71.12.30'
-    COMMAND: 'books/src/ && make generate'
+image: atlassian/default-image:2
+
+pipelines:
+  default:
+    - step:
+        name: 'Deployment to Production'
+        deployment: production
+        script:
+          - pipe: atlassian/ssh-run:0.3.1
+            variables:
+              SSH_USER: 'books'
+              SERVER: '167.71.12.30'
+              COMMAND: './deploy.sh'
