@@ -39,7 +39,7 @@
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
 1. [Communication Skills Training](https://www.goodreads.com/book/show/53510854-communication-skills-training) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
 1. ⭐️ [La Luna es una cruel amante](https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress) by _Robert A. Heinlein_ 10/10
-1. ❤️ [Ramon i la Màquina de les Emocions](https://www.amazon.es/El-Ramon-i-m%C3%A0quina-emocions/dp/B091CL5P7M/ref=sr_1_1?dchild=1&keywords=julia+carreras&qid=1618078597&sr=8-1) by _Júlia Carreras_ ∞/10
+1. ❤️ [Ramon i la Màquina de les Emocions](https://www.goodreads.com/book/show/57638383-el-ramon-i-la-m-quina-de-les-emocions) by _Júlia Carreras_ ∞/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 [summary](https://www.notion.so/Learning-to-Scale-b6be3c2ae139430a8cdfa51c12ec7c5f)
 1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10
