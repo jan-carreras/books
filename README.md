@@ -101,8 +101,8 @@
 1. [The Phoenix Project](https://goodreads.com/book/show/17255186-the-phoenix-project) by _Gene Kim_. 6/10
 1. [The Essential Drucker](https://goodreads.com/book/show/48016.The_Essential_Drucker) by _Peter F. Drucker_ (audiobook)
 1. [Screw It, Let's Do It!](https://goodreads.com/book/show/198863.Screw_It_Let_s_Do_It) by _Richard Manson_ [summary](https://docs.google.com/document/d/e/2PACX-1vQBALon0bEFlIV3a0e6c-QxhJhe2zpdgzVrYrsUku6IrJfKSkbctZy2BWXQsn7SIuTu6KX2c4OAPXQS/pub)
-1. [Who Moved My Cheese](goodreads.com/book/show/106213.Who_Moved_My_Cheese_For_Teens) by _Dr Spencer Johnson_
-1. ⭐️ [Steve Jobs](goodreads.com/book/show/11084145-steve-jobs) by _Walter Isaacson_. 8/10
+1. [Who Moved My Cheese](http://goodreads.com/book/show/106213.Who_Moved_My_Cheese_For_Teens) by _Dr Spencer Johnson_
+1. ⭐️ [Steve Jobs](http://goodreads.com/book/show/11084145-steve-jobs) by _Walter Isaacson_. 8/10
 
 # 2018
 
