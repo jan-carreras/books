@@ -69,25 +69,25 @@
 1. [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/41721428-can-t-hurt-me) by _David Goggins_ (audiobook) 7/10
 1. [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving) by _Richard Thaler_ (audiobook) 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSapMcqVO6z_RIkKcHd29xoE_rdeTGxqjOX7e8u8IlZNNcHO_9IH_wqhD15QI0JtctBreII_udBEjHK/pub)
 1. [Skyward](https://www.goodreads.com/book/show/36642458-skyward) by _Brandon Sanderson_ (audiobook) 8/10
-1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10 
+1. [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) by _Matthew Walker_ 5/10
 	1. [Essay about “Why We Sleep” Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/)
 1. [The Science Of Sci-Fi](https://www.goodreads.com/book/show/48982218-the-science-of-sci-fi) by _Erin MacDonald_ (audiobook) 5/10
-1. ⭐️ [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) by _Michelle Obama_ (audiobook) 10/10
+1. ⭐️ [Becoming](https://www.goodreads.com/book/show/38746485-becoming) by _Michelle Obama_ (audiobook) 10/10
 1. [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by _Peter C. Brown_ 7/10 (audiobook)
 1. [How Caffeine Created the Modern World](https://www.goodreads.com/book/show/52300107-caffeine) by _Michael Pollan_ (audiobook) 5/10
-1. ⭐️ [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.es/Start-Why-Leaders-Inspire-Everyone/dp/0241958229/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=start+with+why&qid=1577902371&sr=8-1) by _Simon Sinek_. 8/10
-1. [Interview with the Robot](https://www.amazon.com/Interview-with-the-Robot/dp/B082P61QFZ) by _Lee Bacon_. (audiobook) 5/10
-1. [Power Moves: Lessons from Davos](https://www.amazon.com/Power-Moves-Lessons-from-Davos/dp/B07H4WPSS2) by _Adam Grant_ (audiobook). 7/10
-1. [The Half-Life of Marie Curie](https://www.amazon.com/The-Half-Life-of-Marie-Curie/dp/B07ZWLRRZY) by _Lauren Gunderson_ (audiobook). 8/10
-1. [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.audible.com/pd/Cognitive-Behavioral-Therapy-Audiobook/B00ZB7Q1RS?pf_rd_p=6a5ce8e4-798e-4a64-8bc5-71dcf66d673f&pf_rd_r=0PNKR0V7M549HTDB182K&ref=a_lib_c4_libItem_B00ZB7Q1RS) by _Jason M. Satterfield_ (audiobook). 8/10
+1. ⭐️ [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.goodreads.com/book/show/7108725-start-with-why) by _Simon Sinek_. 8/10
+1. [Interview with the Robot](https://www.goodreads.com/book/show/50031773-interview-with-the-robot) by _Lee Bacon_. (audiobook) 5/10
+1. [Power Moves: Lessons from Davos](https://www.goodreads.com/book/show/48639418-power-moves) by _Adam Grant_ (audiobook). 7/10
+1. [The Half-Life of Marie Curie](https://www.goodreads.com/en/book/show/49416459-the-half-life-of-marie-curie) by _Lauren Gunderson_ (audiobook). 8/10
+1. [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.goodreads.com/en/book/show/39067892-cognitive-behavioral-therapy) by _Jason M. Satterfield_ (audiobook). 8/10
 1. [Tribes: We Need You to Lead Us](https://www.goodreads.com/book/show/3828382-tribes?ac=1&from_search=true&qid=kET6w9ZlJ4&rank=2) by _Seth Godin_ [summary](https://docs.google.com/document/d/e/2PACX-1vTxPghtEu5zLdpDzJmPnWXn5JMwkI7kw7ODwiji8B8KD3fiIzXhk4RAQmXXSzzACmbP3jh9uNr2ItXE/pub)
-1. [Designing Data-Intensive Applications](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Designing+Data-Intensive+Applications&qid=1571689563&sr=8-1) by _Martin Kleppmann_. 8/10
-1. [Los Cantos de Hyperion](https://www.amazon.es/s?k=los%20cantos%20de%20hyperion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) by _Dann Simmons_. 4/10
-1. [What The Best Collage Teachers Do](https://www.amazon.es/What-Best-College-Teachers-Do/dp/0674013255/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=what%20the%20best%20college%20teachers%20do&qid=1571689858&sr=8-1) by _Ken Bain_. 7/10 [sumary](https://docs.google.com/document/d/e/2PACX-1vSVfF9VCojSKjyq6bVK8aW2IDdvZ012Luo8P4WeX5LwFkeD4-lKI1ECnWBL4Q8BKoP12xLbSlgafjpU/pub)
-1. [El método de la amabilidad](https://www.amazon.es/El-m%C3%A9todo-amabilidad-quererte-propongas/dp/840351977X/) by _Shahroo Izadi_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTZa231Xo3Erb5JfFJZB8XJ7W50V856rsb3EhrR5EFlL4rtOQ7XBTi-bffEhZJJyOg2TNt1AeWKOy8m/pub)
-1. ⭐️ [Sobre la Brevedad de la Vida](http://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf) by _Séneca_. 9/10
+1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_. 8/10
+1. [Los Cantos de Hyperion](https://www.goodreads.com/is/book/show/5774881-los-cantos-de-hyperion) by _Dan Simmons_. 4/10
+1. [What The Best Collage Teachers Do](https://www.goodreads.com/book/show/76696.What_the_Best_College_Teachers_Do) by _Ken Bain_. 7/10 [sumary](https://docs.google.com/document/d/e/2PACX-1vSVfF9VCojSKjyq6bVK8aW2IDdvZ012Luo8P4WeX5LwFkeD4-lKI1ECnWBL4Q8BKoP12xLbSlgafjpU/pub)
+1. [El método de la amabilidad](https://www.goodreads.com/book/show/39002963-the-kindness-method) by _Shahroo Izadi_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTZa231Xo3Erb5JfFJZB8XJ7W50V856rsb3EhrR5EFlL4rtOQ7XBTi-bffEhZJJyOg2TNt1AeWKOy8m/pub)
+1. ⭐️ [Sobre la Brevedad de la Vida](hhttps://www.goodreads.com/book/show/23636776-sobre-la-brevedad-de-la-vida-el-ocio-y-la-felicidad) by _Séneca_. 9/10 [libro](ttp://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect?ac=1&from_search=true&qid=519pydflOx&rank=1) by _Darren Hardy_ [summary](https://docs.google.com/document/d/e/2PACX-1vRXPBvBpNi4AwEx32m7SYX6VrA0n2KC3hk2C0XeTAYmF5ZDzSIluD5SBvsUWZy33EsLLo6unIRg6ft_/pub)
-1. [Out of My Mind](https://www.amazon.es/Out-My-Mind-Alan-Arkin/dp/1799723704/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Out+of+My+Mind+alan&qid=1577888021&sr=8-1) by _Alan Arkin_ (audiobook). 2/10
+1. [Out of My Mind](goodreads.com/book/show/43169404-out-of-my-mind) by _Alan Arkin_ (audiobook). 2/10
 
 # 2019
 
