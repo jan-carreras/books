@@ -87,30 +87,30 @@
 1. [El método de la amabilidad](https://www.goodreads.com/book/show/39002963-the-kindness-method) by _Shahroo Izadi_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTZa231Xo3Erb5JfFJZB8XJ7W50V856rsb3EhrR5EFlL4rtOQ7XBTi-bffEhZJJyOg2TNt1AeWKOy8m/pub)
 1. ⭐️ [Sobre la Brevedad de la Vida](hhttps://www.goodreads.com/book/show/23636776-sobre-la-brevedad-de-la-vida-el-ocio-y-la-felicidad) by _Séneca_. 9/10 [libro](ttp://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect?ac=1&from_search=true&qid=519pydflOx&rank=1) by _Darren Hardy_ [summary](https://docs.google.com/document/d/e/2PACX-1vRXPBvBpNi4AwEx32m7SYX6VrA0n2KC3hk2C0XeTAYmF5ZDzSIluD5SBvsUWZy33EsLLo6unIRg6ft_/pub)
-1. [Out of My Mind](goodreads.com/book/show/43169404-out-of-my-mind) by _Alan Arkin_ (audiobook). 2/10
+1. [Out of My Mind](https://goodreads.com/book/show/43169404-out-of-my-mind) by _Alan Arkin_ (audiobook). 2/10
 
 # 2019
 
 1. [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing) by _Gary Keller and Jay Papasan_ 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTwMoAiZ4z5mZj9ISfJKIlbuOvM1f797kJIFsiJAMsPH5X_1zf4rHlq0vT06pRCASCoNFw3h28HLHjw/pub)
-1. [The Man on the Mountaintop](https://www.audible.com/pd/The-Man-on-the-Mountaintop-Audiobook/B075Y4SWJ8?qid=1577713899&sr=1-1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=228052ANH5W3WCX2E0VR&ref=a_search_c3_lProduct_1_1) by _Susan Trott_ (audiobook). 7/10.
-1. ⭐️ [Educated](https://www.amazon.es/Educated-Memoir-Tara-Westover/dp/1984854852/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=educated&qid=1575736325&sr=8-1) by _Tara Westover_. 9/10
+1. [The Man on the Mountaintop](https://goodreads.com/book/show/43658721-the-man-on-the-mountaintop) by _Susan Trott_ (audiobook). 7/10.
+1. ⭐️ [Educated](https://goodreads.com/book/show/35133922-educated) by _Tara Westover_. 9/10
 1. [Imbatible: La fórmula para alcanzar la libertad financiera](https://www.amazon.es/Imbatible-alcanzar-libertad-financiera-colecci%C3%B3n/dp/8423430766/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imbatible&qid=1577296856&sr=8-1) by _Tonny Robbins_. 3/10
-1. ⭐️ [Atomic Habits](https://www.amazon.es/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=atomic+habits&qid=1575736224&sr=8-1) by _James Clear_. 8/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTBuNq0KEMyrVFNVCrrLa4n36CYHyNup5Ch2HmcUlnFPzjvaXT4Wum1UjhptckYbdbIOWbPEYkp4F96/pub)
-1. [Rich Dad, Poor Dad](https://www.amazon.es/Rich-Dad-Poor-Teach-Middle/dp/1612680011) by _Robert T. Kiyosaki_. 2/10
-1. [Never Split The Difference](https://www.amazon.es/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) by _Chris Voss_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vS2uRRUBXuYCj1rNbtFF9rnFAvi9H-cr0Y4YphPofGLC8aCbFRLrKE2W9yuWA1L2ToCY2xF5lfxQwNR/pub)
-1. [The Phoenix Project](https://www.amazon.es/Phoenix-Project-Devops-Helping-Business/dp/1942788290/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the+phoenix+project&qid=1577087961&sr=8-1) by _Gene Kim_. 6/10
-1. [The Essential Drucker](https://www.amazon.es/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the+essential+drucker&qid=1571689536&sr=8-1) by _Peter F. Drucker_ (audiobook)
-1. [Screw It, Let's Do It!](https://www.amazon.es/Screw-Lets-Do-Lessons-Quick/dp/0753510995) by _Richard Manson_ [summary](https://docs.google.com/document/d/e/2PACX-1vQBALon0bEFlIV3a0e6c-QxhJhe2zpdgzVrYrsUku6IrJfKSkbctZy2BWXQsn7SIuTu6KX2c4OAPXQS/pub)
-1. [Who Moved My Cheese](https://www.amazon.es/Who-Moved-My-Cheese-Teens/dp/0091894506/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=who+are+my+cheese&qid=1571689664&sr=8-1) by _Dr Spencer Johnson_
-1. ⭐️ [Steve Jobs](https://www.amazon.es/Steve-Jobs-SELLER-Walter-Isaacson/dp/8499897312/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steve%20jobs&qid=1571690287&sr=8-1) by _Walter Isaacson_. 8/10
+1. ⭐️ [Atomic Habits](https://goodreads.com/book/show/40121378-atomic-habits) by _James Clear_. 8/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTBuNq0KEMyrVFNVCrrLa4n36CYHyNup5Ch2HmcUlnFPzjvaXT4Wum1UjhptckYbdbIOWbPEYkp4F96/pub)
+1. [Rich Dad, Poor Dad](https://goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by _Robert T. Kiyosaki_. 2/10
+1. [Never Split The Difference](https://goodreads.com/book/show/26156469-never-split-the-difference) by _Chris Voss_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vS2uRRUBXuYCj1rNbtFF9rnFAvi9H-cr0Y4YphPofGLC8aCbFRLrKE2W9yuWA1L2ToCY2xF5lfxQwNR/pub)
+1. [The Phoenix Project](https://goodreads.com/book/show/17255186-the-phoenix-project) by _Gene Kim_. 6/10
+1. [The Essential Drucker](https://goodreads.com/book/show/48016.The_Essential_Drucker) by _Peter F. Drucker_ (audiobook)
+1. [Screw It, Let's Do It!](https://goodreads.com/book/show/198863.Screw_It_Let_s_Do_It) by _Richard Manson_ [summary](https://docs.google.com/document/d/e/2PACX-1vQBALon0bEFlIV3a0e6c-QxhJhe2zpdgzVrYrsUku6IrJfKSkbctZy2BWXQsn7SIuTu6KX2c4OAPXQS/pub)
+1. [Who Moved My Cheese](goodreads.com/book/show/106213.Who_Moved_My_Cheese_For_Teens) by _Dr Spencer Johnson_
+1. ⭐️ [Steve Jobs](goodreads.com/book/show/11084145-steve-jobs) by _Walter Isaacson_. 8/10
 
 # 2018
 
-1. [Powerful: Building a Culture](https://www.amazon.es/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=powerful%20building%20a%20culture&qid=1571689976&sr=8-1) by _Patty McCord_ (audiobook). 3/10
-1. ⭐️ [7 Habits of Highly Effective People](https://www.amazon.es/Seven-Habits-Highly-Effective-People/dp/1416502491/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=7%20Habits%20of%20Highly%20Effective%20People&qid=1571690026&sr=8-1) by _Stephen R. Covey_ [summary](https://docs.google.com/document/d/e/2PACX-1vStaPxvKPQc5cRqLgCc63XDkJXGU2MhQmAtxQcj-5iY5Gxs0TvtA3aADkLjDNGr-dNHzJ7_GQaZMBHy/pub)
-1. ⭐️ [Crucial Conversations When The Stakes Are High](https://www.amazon.es/Crucial-Conversations-Talking-Stakes-Second/dp/0071775307/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=crucial+conversations&qid=1571689453&sr=8-1) by _Kerry Patterson_ (book + audiobook). 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vRjUqpygselFjyy8C45VKizI8RwmWP4DeDlYxtm1nJyRg7av2C6uOAvR5K0UwBSm9j7lK2Dx5NPzoji/pub)
-1. [4 Hour Workweek](https://www.amazon.es/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=4%20Hour%20Workweek&qid=1571690122&sr=8-1) by _Tim Ferriss_
-1. ⭐️ [The Millionaire Fastlane](https://www.amazon.es/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=the%20millionaire%20fastlane&qid=1571690156&sr=8-1) by _M. J. DeMarco_. 8/10
+1. [Powerful: Building a Culture](https://www.goodreads.com/book/show/36417234-powerful) by _Patty McCord_ (audiobook). 3/10
+1. ⭐️ [7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) by _Stephen R. Covey_ [summary](https://docs.google.com/document/d/e/2PACX-1vStaPxvKPQc5cRqLgCc63XDkJXGU2MhQmAtxQcj-5iY5Gxs0TvtA3aADkLjDNGr-dNHzJ7_GQaZMBHy/pub)
+1. ⭐️ [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ (book + audiobook). 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vRjUqpygselFjyy8C45VKizI8RwmWP4DeDlYxtm1nJyRg7av2C6uOAvR5K0UwBSm9j7lK2Dx5NPzoji/pub)
+1. [4 Hour Workweek](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) by _Tim Ferriss_
+1. ⭐️ [The Millionaire Fastlane](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) by _M. J. DeMarco_. 8/10
 
 
 # Paused
