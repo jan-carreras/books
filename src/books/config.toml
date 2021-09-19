@@ -1,6 +1,6 @@
 baseURL = "http://books.jcarreras.es/"
 languageCode = "en-us"
-title = "Read books"
+title = "List of books I have read"
 theme = "hugo-swift-theme"
 paginate = 52
 
