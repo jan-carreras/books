@@ -1,0 +1,11 @@
+baseURL = "http://books.jcarreras.es/"
+languageCode = "en-us"
+title = "Read books"
+theme = "hugo-swift-theme"
+paginate = 52
+
+[Author]
+    name = "Jan Carreras"
+
+[params]
+  author = "Jan Carreras"
