@@ -52,7 +52,7 @@
 1. [El Principito](https://www.goodreads.com/ps/book/show/33271472-el-principito) by _Antoine de Saint-Exupéry_ 6/10
 1. [Carta al padre](https://www.goodreads.com/book/show/24954936-carta-al-padre) by _Franz Kafka_ 7/10
 1. [Show Your Work! 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/book/show/18290401-show-your-work) by _Austin Kleon_ 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSYBmkj_iSSrTgbYVQhZC5iE8liTdxDyDpr90npuwyOpcMZZcHZPljOoCECduUuGx_sWxlJVbTXVoZY/pub)
-1. [El Príncipe](https://www.goodreads.com/book/show/50258200-el-pr-ncipe) by _Nicolás Maquiavelo_ 4/10
+1. [El Príncipe](https://www.goodreads.com/book/show/56377744-el-pr-ncipe) by _Nicolás Maquiavelo_ 4/10
 1. [La Metamorfosis](https://www.goodreads.com/zh-TW/book/show/25921050-la-metamorfosis) by _Franz Kafka_ 7/10
 1. [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by _Robert C. Martin_ 5/10
 1. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by _Robert C. Martin_ 7/10
