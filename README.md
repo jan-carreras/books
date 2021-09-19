@@ -94,7 +94,7 @@
 1. [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing) by _Gary Keller and Jay Papasan_ 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTwMoAiZ4z5mZj9ISfJKIlbuOvM1f797kJIFsiJAMsPH5X_1zf4rHlq0vT06pRCASCoNFw3h28HLHjw/pub)
 1. [The Man on the Mountaintop](https://goodreads.com/book/show/43658721-the-man-on-the-mountaintop) by _Susan Trott_ (audiobook). 7/10.
 1. ⭐️ [Educated](https://goodreads.com/book/show/35133922-educated) by _Tara Westover_. 9/10
-1. [Imbatible: La fórmula para alcanzar la libertad financiera](https://www.amazon.es/Imbatible-alcanzar-libertad-financiera-colecci%C3%B3n/dp/8423430766/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imbatible&qid=1577296856&sr=8-1) by _Tonny Robbins_. 3/10
+1. [Imbatible: La fórmula para alcanzar la libertad financiera](https://www.goodreads.com/book/show/40885164-unshakeable) by _Tonny Robbins_. 3/10
 1. ⭐️ [Atomic Habits](https://goodreads.com/book/show/40121378-atomic-habits) by _James Clear_. 8/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTBuNq0KEMyrVFNVCrrLa4n36CYHyNup5Ch2HmcUlnFPzjvaXT4Wum1UjhptckYbdbIOWbPEYkp4F96/pub)
 1. [Rich Dad, Poor Dad](https://goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by _Robert T. Kiyosaki_. 2/10
 1. [Never Split The Difference](https://goodreads.com/book/show/26156469-never-split-the-difference) by _Chris Voss_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vS2uRRUBXuYCj1rNbtFF9rnFAvi9H-cr0Y4YphPofGLC8aCbFRLrKE2W9yuWA1L2ToCY2xF5lfxQwNR/pub)
