@@ -1,0 +1,70 @@
+[address]
+  other = "Address"
+[designed_by]
+  other = "Conçu par  <a href = '{{ .url }}' title = 'Profil Linkedin'>{{ .name }}</a>"
+[copy]
+  other = "copie"
+[scan]
+  other = "Scan"
+[link_copied]
+  other = "copié"
+[written_by]
+  other = "Ecrit par"
+[btnReset]
+  other = "Effacer"
+[btnSubmit]
+  other = "Envoyer"
+[btnSubmitted]
+  other = "Envoyé"
+[comment]
+  other = "Commentaire"
+[noComment]
+  other = "Pas de commentaire"
+[email]
+  other = "Email"
+[name]
+  other = "Nom"
+[typeInComment]
+  other = "Saisir un commentaire..."
+[moreDay]
+  other = "JRS"
+[moreHr]
+  other = "HRS"
+[moreMin]
+  other = "MINS"
+[moreMonth]
+  other = "MOIS"
+[moreWk]
+  other = "SEMS"
+[moreYr]
+  other = "ANS"
+[oneDay]
+  other = "JR"
+[oneHr]
+  other = "HR"
+[oneMin]
+  other = "MIN"
+[oneMonth]
+  other = "MOIS"
+[oneWk]
+  other = "SEM"
+[oneYr]
+  other = "YR"
+[timeAgoStr]
+  other = "IL Y A ${timeAgo}&nbsp;${timeTag}"
+[close]
+  other = "Fermer"
+[successTitle]
+  other = "Commentaire envoyé"
+[successMsg]
+  other = "Merci de votre commentaire !  Il s'affichera sur le site une fois approuvé."
+[errTitle]
+  other = "Erreur"
+[errMsg]
+  other = "Désolé, une erreur s'est produite lors de l'envoi du commentaire !"
+[moreFrom]
+  other = "Plus de billets sur"
+[discard]
+  other = "effacer"
+[discardComment]
+  other = "Effacer commentaire"

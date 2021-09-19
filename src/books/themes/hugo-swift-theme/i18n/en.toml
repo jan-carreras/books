@@ -1,0 +1,70 @@
+[address]
+  other = "Address"
+[designed_by]
+  other = "Designed by  <a href = '{{ .url }}' title = 'Linkedin Profile'>{{ .name }}</a>"
+[copy]
+  other = "Copy"
+[scan]
+  other = "Scan"
+[link_copied]
+  other = "Copied"
+[written_by]
+  other = "Written by"
+[btnReset]
+  other = "Reset"
+[btnSubmit]
+  other = "Submit"
+[btnSubmitted]
+  other = "Submitted"
+[comment]
+  other = "Comment"
+[noComment]
+  other = "No comment"
+[email]
+  other = "Email"
+[name]
+  other = "Name"
+[typeInComment]
+  other = "Type in a comment..."
+[moreDay]
+  other = "DAYS"
+[moreHr]
+  other = "HRS"
+[moreMin]
+  other = "MINS"
+[moreMonth]
+  other = "MONTHS"
+[moreWk]
+  other = "WKS"
+[moreYr]
+  other = "YRS"
+[oneDay]
+  other = "DAY"
+[oneHr]
+  other = "HR"
+[oneMin]
+  other = "MIN"
+[oneMonth]
+  other = "MONTH"
+[oneWk]
+  other = "WK"
+[oneYr]
+  other = "YR"
+[timeAgoStr]
+  other = "${timeAgo}&nbsp;${timeTag} AGO"
+[close]
+  other = "Close"
+[successTitle]
+  other = "Review submitted"
+[successMsg]
+  other = "Thanks for your review! It will be shown on the site once it has been approved."
+[errTitle]
+  other = "Error"
+[errMsg]
+  other = "Sorry, there was an error with the submission!"
+[moreFrom]
+  other = "More from"
+[discard]
+  other = "discard"
+[discardComment]
+  other = "Discard Comment"

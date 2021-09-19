@@ -1,0 +1,29 @@
+{{- $scratch := newScratch }}
+{{- if isset .Params "image" }}
+  {{- $scratch.Set "image" .Params.image }}
+{{- else }}
+  {{- $scratch.Set "image" "thumbnail.svg" }}
+{{- end }}
+{{- $image := $scratch.Get "image" }}
+{{- $bg := (path.Join "images" $image) }}
+<li class = 'post_item fp' style='width: 220px'>
+  <a class = 'post_card' href='{{ .Params.externalurl }}' title = '{{ .Title }}' style = 'background-image: url({{ absURL $bg }}); height: 300px;'>
+  </a>
+  <div class = 'excerpt'>
+    <div class = 'excerpt_meta'>
+    {{- with .Params.tags -}}
+      {{- range first 2 . }}
+      {{- $tag := . | urlize }}
+      <a href = '{{ absURL (printf "tags/%s" $tag) }}' class = 'post_tag'>
+        {{- . }}
+      </a>
+      {{- end }}
+    {{- end }}
+    {{- partial "copy" . }}
+    </div>
+    <h3 class = 'post_link'>
+      <a href='{{ .Params.externalurl }}'>{{ .Title  }}</a>
+    </h3>
+    <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
+  </div>
+</li>

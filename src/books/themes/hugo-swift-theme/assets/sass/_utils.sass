@@ -1,0 +1,145 @@
+.pale 
+  opacity: 0.7
+
+.hidden
+  display: none
+
+.center
+  text-align: center
+  margin: 5px auto
+
+.wrap
+  padding: 10px 0
+  max-width: 1024px
+  margin: 0 auto
+
+.paypal
+  display: flex
+  flex-flow: column
+  align-items: center
+  justify-content: center
+  background: var(--accent)
+  @media screen and (min-width: 667px)
+    margin-top: 2rem
+
+.mt
+  margin-top: 7rem
+
+.link
+  display: inline-block
+  width: 2.5rem
+  margin: 0 0.25rem
+  padding: 0 0.25rem
+  opacity: 0
+  transition: opacity 0.3s cubic-bezier(0.39, 0.575, 0.565, 1)
+  &_owner:hover &
+    opacity: 0.9
+  img
+    margin: 0
+
+.solo
+  grid-column: 1/-1
+
+.never
+  min-height: 60vh
+  background-image: url($never-icon-path)
+  background-position: right bottom
+  background-repeat: no-repeat
+  background-size: contain
+  padding: 0 1.5rem
+  margin-top: 6rem
+  &_title
+    text-align: left
+
+@keyframes showMenu
+  0%
+    top: 100%
+    opacity: 0
+
+  100%
+    top: 0
+    opacity: 1
+
+@keyframes hideMenu
+  0%
+    top: 0
+    opacity: 1
+
+  100%
+    top: 100%
+    opacity: 0
+
+.align
+  h2, h3, h4, h5, h6
+    margin: 0.33rem 0 !important
+
+%grid
+  display: grid
+  grid-template-columns: 1fr
+
+[class*='grid_']
+  grid-gap: 2rem
+
+.grid_2, .grid_3, .grid_4
+  @extend %grid
+
+@media screen and (min-width: 42rem)
+  .grid_2
+    grid-template-columns: 1fr 1fr
+
+  .grid_3
+    grid-template-columns: repeat(3, 1fr)
+
+  .grid_4
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
+
+@for $i from 1 through 4
+  $size: $i * 1.5rem
+  $x-size: $size * 0.5
+  .pt-#{$i}
+    padding-top: $size
+
+  .pb-#{$i}
+    padding-bottom: $size
+
+  .mt-#{$i}
+    margin-top: $size
+
+  .mb-#{$i}
+    margin-bottom: $size
+
+@keyframes fadeUp
+  from
+    opacity: 0
+    transform: translateY(4.5rem)
+  to
+    opacity: 1
+    transform: translateY(0)
+
+@keyframes fadeRight
+  from
+    opacity: 0
+    transform: translateX(4.5rem)
+  to
+    opacity: 1
+    transform: translateX(0)
+
+@keyframes fadeLeft
+  from
+    opacity: 0
+    transform: translateX(-5rem)
+  to
+    opacity: 1
+    transform: translateX(0)
+
+.fade
+  &_up
+    animation: 3s fadeUp var(--easing)
+
+.fade
+  &_right
+    animation: 3s fadeRight var(--easing)
+
+.fade
+  &_left
+    animation: 3s fadeLeft var(--easing)
