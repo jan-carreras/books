@@ -1,5 +1,6 @@
 # Reading
 
+1. [Models](https://www.goodreads.com/book/show/12633800-models) by _Mark Manson_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [How To - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_
