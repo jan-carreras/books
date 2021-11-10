@@ -1,5 +1,6 @@
 # Reading
 
+1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
 1. [Models](https://www.goodreads.com/book/show/12633800-models) by _Mark Manson_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
