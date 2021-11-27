@@ -8,7 +8,7 @@
 
 # 2021
 
-1. [Models](https://www.goodreads.com/book/show/12633800-models) by _Mark Manson_
+1. [Models](https://www.goodreads.com/book/show/12633800-models) by _Mark Manson_ 6/10
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_ 7/10
 1. [WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) by _Randall Munroe_ 7/10
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_ 8/10
