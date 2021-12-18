@@ -1,6 +1,5 @@
 # Reading
 
-1. [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by _Michael E. Gerber_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
@@ -9,6 +8,7 @@
 
 # 2021
 
+1. [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by _Michael E. Gerber_ 7/10
 1. ⭐️ [Greenlights](https://www.goodreads.com/book/show/52838315-greenlights) by _Matthew McConaughey_ 10/10 
 1. [Models](https://www.goodreads.com/book/show/12633800-models) by _Mark Manson_ 6/10
 1. [La vida, el universo y todo lo demás](https://www.goodreads.com/mn/book/show/68352.La_vida_el_universo_y_todo_lo_dem_s) by _Douglas Adams_ 7/10
