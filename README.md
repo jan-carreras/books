@@ -2,12 +2,14 @@
 
 1. [Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka](https://www.goodreads.com/en/book/show/39793332-designing-event-driven-systems) by _Ben Stopford_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
-1. [How We Learn: Why Brains Learn Better Than Any Machine...for Now](https://www.goodreads.com/en/book/show/46064083-how-we-learn) by _Stanislas Dehaene_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [How To - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_
 
+# 2022
+
+1. [How We Learn: Why Brains Learn Better Than Any Machine...for Now](https://www.goodreads.com/en/book/show/46064083-how-we-learn) by _Stanislas Dehaene_ 6/10
 
 # 2021
 
