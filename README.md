@@ -1,5 +1,6 @@
 # Reading
 
+1. [Will](https://www.goodreads.com/en/book/show/58375739-will) by _Will Smith_
 1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
