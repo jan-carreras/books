@@ -9,10 +9,10 @@
 
 # 2022
 
-1. [Por si las voces vuelven](https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven) by _Angel Martín_ 5/10
-1. [Will](https://www.goodreads.com/en/book/show/58375739-will) by _Will Smith_ 7/10
+1. [Por si las voces vuelven](https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven) by _Angel Martín_ (audiobook) 5/10
+1. [Will](https://www.goodreads.com/en/book/show/58375739-will) by _Will Smith_ (audiobook) 7/10
 1. [Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka](https://www.goodreads.com/en/book/show/39793332-designing-event-driven-systems) by _Ben Stopford_ 3/10
-1. [How We Learn: Why Brains Learn Better Than Any Machine...for Now](https://www.goodreads.com/en/book/show/46064083-how-we-learn) by _Stanislas Dehaene_ 6/10
+1. [How We Learn: Why Brains Learn Better Than Any Machine...for Now](https://www.goodreads.com/en/book/show/46064083-how-we-learn) by _Stanislas Dehaene_ (audiobook) 6/10
 
 # 2021
 
