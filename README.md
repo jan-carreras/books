@@ -9,6 +9,7 @@
 
 # 2022
 
+1. [Ego Free Leadership: Ending the Unconscious Habits That Hijack Your Business](https://www.goodreads.com/en/book/show/31747095-ego-free-leadership) by _Brandon Black_ (audiobook) 5/10
 1. [Por si las voces vuelven](https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven) by _Angel Martín_ (audiobook) 5/10
 1. [Will](https://www.goodreads.com/en/book/show/58375739-will) by _Will Smith_ (audiobook) 7/10
 1. [Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka](https://www.goodreads.com/en/book/show/39793332-designing-event-driven-systems) by _Ben Stopford_ 3/10
