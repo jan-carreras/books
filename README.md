@@ -1,5 +1,6 @@
 # Reading
 
+1. [Black Rednecks and White Liberals](https://www.goodreads.com/book/show/3040.Black_Rednecks_and_White_Liberals) by _Thomas Sowell_
 1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
