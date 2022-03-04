@@ -1,6 +1,5 @@
 # Reading
 
-1. [Black Rednecks and White Liberals](https://www.goodreads.com/book/show/3040.Black_Rednecks_and_White_Liberals) by _Thomas Sowell_
 1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
@@ -10,6 +9,7 @@
 
 # 2022
 
+1. [Black Rednecks and White Liberals](https://www.goodreads.com/book/show/3040.Black_Rednecks_and_White_Liberals) by _Thomas Sowell_ 6/10
 1. [Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease―and How to Fight It](https://www.goodreads.com/en/book/show/49207255-why-we-get-sick) by _Benjamin Bikman_ (audiobook) 4/10
 1. [Ego Free Leadership: Ending the Unconscious Habits That Hijack Your Business](https://www.goodreads.com/en/book/show/31747095-ego-free-leadership) by _Brandon Black_ (audiobook) 5/10
 1. [Por si las voces vuelven](https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven) by _Angel Martín_ (audiobook) 5/10
