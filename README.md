@@ -128,16 +128,6 @@
 1. ⭐️ [The Millionaire Fastlane](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) by _M. J. DeMarco_. 8/10
 
 
-# Paused
-
-1. [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by _Nassim Nicholas Taleb_
-
-_Disclaimer: Summaries are personal and meant to have meaning to me. Parts of the book may have been ignored because when I read them were not that relevant to me._
-
-"Number of books completed is a vanity metric. As you know more, you leave more books unfinished. Focus on new concepts with predictive power" — Naval Ravikant
-
-[Wish list](https://www.amazon.es/hz/wishlist/ls/2W5KVSEOLGJYS?ref_=wl_share&viewType=list). I'm always grateful to the person that sends me a book (specially if used).
-
 [This is how I read books](https://private.jcarreras.es/posts/books/).
 
 [Edit](https://bitbucket.org/jcarreras/books/src/master/README.md?mode=edit&at=master)
