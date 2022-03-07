@@ -8,6 +8,7 @@
 
 # 2022
 
+1. [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art) by _Steven Pressfield_ (audiobook) 7/10
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_ 6/10
 1. [Black Rednecks and White Liberals](https://www.goodreads.com/book/show/3040.Black_Rednecks_and_White_Liberals) by _Thomas Sowell_ (audiobook) 6/10
 1. [Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease―and How to Fight It](https://www.goodreads.com/en/book/show/49207255-why-we-get-sick) by _Benjamin Bikman_ (audiobook) 4/10
