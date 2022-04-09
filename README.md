@@ -1,6 +1,5 @@
 # Reading
 
-1. [Total Recall](https://goodreads.com/book/show/14546626-total-recall) by _Arnold Schwarzenegger_ (audiobook)
 1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
@@ -9,6 +8,7 @@
 
 # 2022
 
+1. [Total Recall](https://goodreads.com/book/show/14546626-total-recall) by _Arnold Schwarzenegger_ (audiobook) 7/10
 1. [Before & Laughter: A Life Changing Book](https://www.goodreads.com/en/book/show/58112555) by _Jimmy Carr_ (audiobook) 6/10
 1. [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art) by _Steven Pressfield_ (audiobook) 7/10
 1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_ 6/10
