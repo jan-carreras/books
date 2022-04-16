@@ -1,5 +1,6 @@
 # Reading
 
+1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company] by _Régis Medina_ 6/10 🔁
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiolibro)
 1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
 1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
