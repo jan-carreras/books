@@ -1,11 +1,10 @@
 # Reading
 
+1. [The official Guide to Success](https://www.goodreads.com/book/show/2272005.The_Official_Guide_To_Success) by _Tom Hopkins_ (audiobook)
+1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 🔁
-1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiolibro)
-1. [The Ruby Programming Language](https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language) by _Yukihiro Matsumoto_
-1. [El Capital (Antología)](https://www.amazon.es/El-capital-econom%C3%ADa-pol%C3%ADtica-Antolog%C3%ADa/dp/8420674265) by _Karl Marx_
+1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook)
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
-1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [How To - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_
 
 # 2022
