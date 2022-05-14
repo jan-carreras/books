@@ -1,6 +1,5 @@
 # Reading
 
-1. [The official Guide to Success](https://www.goodreads.com/book/show/2272005.The_Official_Guide_To_Success) by _Tom Hopkins_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 🔁
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook)
@@ -9,6 +8,7 @@
 
 # 2022
 
+1. [The official Guide to Success](https://www.goodreads.com/book/show/2272005.The_Official_Guide_To_Success) by _Tom Hopkins_ (audiobook) 7/10
 1. [How To - Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43852758-how-to) by _Randall Munroe_ 8/10
 1. [Total Recall](https://goodreads.com/book/show/14546626-total-recall) by _Arnold Schwarzenegger_ (audiobook) 7/10
 1. [Before & Laughter: A Life Changing Book](https://www.goodreads.com/en/book/show/58112555) by _Jimmy Carr_ (audiobook) 6/10
