@@ -1,5 +1,6 @@
 # Reading
 
+1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook)
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
