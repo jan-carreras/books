@@ -8,6 +8,7 @@
 
 # 2022
 
+1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 4/10 🔁
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁 10/10
 1. [The official Guide to Success](https://www.goodreads.com/book/show/2272005.The_Official_Guide_To_Success) by _Tom Hopkins_ (audiobook) 7/10
