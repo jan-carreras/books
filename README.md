@@ -2,12 +2,12 @@
 
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
-1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook)
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
 
 
 # 2022
 
+1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook) 7/10
 1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 4/10 🔁
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁 10/10
