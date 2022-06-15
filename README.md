@@ -7,6 +7,7 @@
 
 # 2022
 
+1. [Born a Crime: Stories from a South African childhoot] by _Trevor Noah_ (audiobook) 7/10
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook) 7/10
 1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 4/10 🔁
