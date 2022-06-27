@@ -9,6 +9,7 @@
 
 1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
 	1. [Feminine Intuition](https://www.goodreads.com/en/book/show/28361345) by _Isaac Asimov_ 8/10
+	1. [Waterclap](https://www.goodreads.com/en/book/show/31695328) by _Isaac Asimov_ 5/10
 1. [Born a Crime: Stories from a South African childhoot](https://www.goodreads.com/book/show/29780253-born-a-crime) by _Trevor Noah_ (audiobook) 7/10
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ (audiobook) 7/10
 1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10
