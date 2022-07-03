@@ -8,6 +8,7 @@
 
 # 2022
 
+1. [Seeing Silence: The Beauty of the World's Most Quiet Places](https://www.goodreads.com/book/show/57414931-seeing-silence) by _Pete McBride_ 6/10
 1. Los Robots by _Isaac Asimov_
 	1. [Sally](https://www.goodreads.com/book/show/837232.Sally) by _Isaac Asimov_ 6/10
 1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
