@@ -2,6 +2,7 @@
 
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
+1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_
 
 
 # 2022
