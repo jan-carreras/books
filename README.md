@@ -2,11 +2,11 @@
 
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
-1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_
 
 
 # 2022
 
+1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_ (audiobook) 8/10
 1. [The One Minute Manager](https://www.goodreads.com/book/show/763362.The_One_Minute_Manager) by _Kenneth H. Blanchard_ 4/10
 1. [Seeing Silence: The Beauty of the World's Most Quiet Places](https://www.goodreads.com/book/show/57414931-seeing-silence) by _Pete McBride_ 6/10
 1. Los Robots by _Isaac Asimov_
