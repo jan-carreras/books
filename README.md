@@ -3,7 +3,8 @@
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ (audiobook)
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ (audiobook)
 1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_
-
+1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
+1. [El Mundo en mis Ojos](https://www.amazon.com/mundo-ojos-Steve-McCurry-Spanish/dp/841845900X) by _Steve McCurry_
 
 # 2022
 
