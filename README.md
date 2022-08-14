@@ -8,7 +8,7 @@
 
 # 2022
 
-1. [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by _Cal Newport_ 8/10
+1. [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by _Cal Newport_ 8/10 [summary](https://www.notion.so/Deep-work-de8c6ba44d4847ceaf726c030bf0f4e6)
 1. ⭐️ [The Secret Garden](https://www.goodreads.com/book/show/2998.The_Secret_Garden) by _Frances Hodgson Burnett_ (audiobook) 10/10
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_ (audiobook) 8/10
 1. [The One Minute Manager](https://www.goodreads.com/book/show/763362.The_One_Minute_Manager) by _Kenneth H. Blanchard_ 4/10
