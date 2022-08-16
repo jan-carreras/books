@@ -6,6 +6,7 @@
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ (audiobook)
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
+1. [Subidón](https://www.goodreads.com/en/book/show/58742052) by _Joaquín Reyes_
 
 # 2022
 
