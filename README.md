@@ -7,6 +7,7 @@
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ (audiobook)
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) by _Blake Crouch_
+1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_
 
 # 2022
 
