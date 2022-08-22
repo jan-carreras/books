@@ -6,12 +6,12 @@
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ (audiobook)
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
-1. [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) by _Blake Crouch_
 1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_
 
 # 2022
 
+1. ⭐️ [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) by _Blake Crouch_ 10/10
 1. [Subidón](https://www.goodreads.com/en/book/show/58742052) by _Joaquín Reyes_ 7/10
 1. [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by _Cal Newport_ 8/10 [summary](https://www.notion.so/Deep-work-de8c6ba44d4847ceaf726c030bf0f4e6)
 1. ⭐️ [The Secret Garden](https://www.goodreads.com/book/show/2998.The_Secret_Garden) by _Frances Hodgson Burnett_ (audiobook) 10/10
