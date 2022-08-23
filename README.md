@@ -8,6 +8,7 @@
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_
+1. [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/en/book/show/35747076) by _Nicole Forsgren_
 
 # 2022
 
