@@ -9,6 +9,7 @@
 1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_
 1. [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/en/book/show/35747076) by _Nicole Forsgren_
+1. [Take your shot: How to Grow you business, attract more clients, and make more money](https://www.amazon.com/Take-Your-Shot-Business-Attract-ebook/dp/B074679GZ6) by _Robin Waite_
 
 # 2022
 
