@@ -15,7 +15,7 @@
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁 🦾
 1. [Undressed](https://www.goodreads.com/it/book/show/34924060-mario-testino-undressed) by _Mario Testino_ 6/10 📸
 1. [Take your shot: How to Grow you business, attract more clients, and make more money](https://www.amazon.com/Take-Your-Shot-Business-Attract-ebook/dp/B074679GZ6) by _Robin Waite_ 4/10
-1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_ 7/10
+1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_ 7/10 📸
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ 🎧 8/10
 1. [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/en/book/show/35747076) by _Nicole Forsgren_ 8/10
 1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_ 📸
