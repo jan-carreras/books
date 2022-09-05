@@ -7,25 +7,25 @@
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
-1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_
+1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_  📸
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_
 
 # 2022
 
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁
-1. [Undressed](https://www.goodreads.com/it/book/show/34924060-mario-testino-undressed) by _Mario Testino_ 6/10
+1. [Undressed](https://www.goodreads.com/it/book/show/34924060-mario-testino-undressed) by _Mario Testino_ 6/10 📸
 1. [Take your shot: How to Grow you business, attract more clients, and make more money](https://www.amazon.com/Take-Your-Shot-Business-Attract-ebook/dp/B074679GZ6) by _Robin Waite_ 4/10
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ 🎧 8/10
 1. [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/en/book/show/35747076) by _Nicole Forsgren_ 8/10
-1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_
-1. [Gold](https://www.goodreads.com/book/show/51042218-sebastiao-salgado-gold) by _Sebastião Salgado_ 8/10
+1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_ 📸
+1. [Gold](https://www.goodreads.com/book/show/51042218-sebastiao-salgado-gold) by _Sebastião Salgado_ 8/10 📸
 1. ⭐️ [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) by _Blake Crouch_ 10/10
 1. [Subidón](https://www.goodreads.com/en/book/show/58742052) by _Joaquín Reyes_ 7/10
 1. [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by _Cal Newport_ 8/10 [summary](https://www.notion.so/Deep-work-de8c6ba44d4847ceaf726c030bf0f4e6)
 1. ⭐️ [The Secret Garden](https://www.goodreads.com/book/show/2998.The_Secret_Garden) by _Frances Hodgson Burnett_ 🎧 10/10
 1. [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by _Yuval Noah Harari_ 🎧 8/10
 1. [The One Minute Manager](https://www.goodreads.com/book/show/763362.The_One_Minute_Manager) by _Kenneth H. Blanchard_ 4/10
-1. [Seeing Silence: The Beauty of the World's Most Quiet Places](https://www.goodreads.com/book/show/57414931-seeing-silence) by _Pete McBride_ 6/10
+1. [Seeing Silence: The Beauty of the World's Most Quiet Places](https://www.goodreads.com/book/show/57414931-seeing-silence) by _Pete McBride_ 6/10 📸
 1. Los Robots by _Isaac Asimov_
 	1. [Sally](https://www.goodreads.com/book/show/837232.Sally) by _Isaac Asimov_ 6/10
 1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
@@ -35,7 +35,7 @@
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Born a Crime: Stories from a South African childhood](https://www.goodreads.com/book/show/29780253-born-a-crime) by _Trevor Noah_ 🎧 7/10
 1. [Cuba: An American History](https://www.goodreads.com/en/book/show/55710558) by _Ada Ferrer_ 🎧 7/10
-1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10
+1. [Picture This: How Pictures Work](https://www.goodreads.com/en/book/show/910352) by _Molly Bang_ 8/10  📸
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 4/10 🔁
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁 10/10
 1. [The official Guide to Success](https://www.goodreads.com/book/show/2272005.The_Official_Guide_To_Success) by _Tom Hopkins_ 🎧 7/10
