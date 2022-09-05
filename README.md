@@ -3,7 +3,7 @@
 1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
 	1. Homo Sol 1/10 
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
-1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_ 🎧
+1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
