@@ -5,16 +5,17 @@
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧
-1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁
+1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_  📸
-1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_
+1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾
 
 # 2022
 
-1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁
+1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁 🦾
 1. [Undressed](https://www.goodreads.com/it/book/show/34924060-mario-testino-undressed) by _Mario Testino_ 6/10 📸
 1. [Take your shot: How to Grow you business, attract more clients, and make more money](https://www.amazon.com/Take-Your-Shot-Business-Attract-ebook/dp/B074679GZ6) by _Robin Waite_ 4/10
+1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_ 7/10
 1. [Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience](https://www.goodreads.com/book/show/58330567-atlas-of-the-heart) by _Brené Brown_ 🎧 8/10
 1. [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/en/book/show/35747076) by _Nicole Forsgren_ 8/10
 1. [Things Organized Neatly: The Art of Arranging the Everyday](https://www.goodreads.com/book/show/25982611-things-organized-neatly) by _Austin Radcliffe_ 📸
@@ -43,13 +44,13 @@
 1. [Total Recall](https://goodreads.com/book/show/14546626-total-recall) by _Arnold Schwarzenegger_ 🎧 7/10
 1. [Before & Laughter: A Life Changing Book](https://www.goodreads.com/en/book/show/58112555) by _Jimmy Carr_ 🎧 6/10
 1. [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art) by _Steven Pressfield_ 🎧 7/10
-1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_ 6/10
+1. [PostgreSQL: Up and Running](https://www.goodreads.com/book/show/15769821-postgresql) by _Regina O. Obe, Leo Hsu_ 6/10 🦾
 1. [Black Rednecks and White Liberals](https://www.goodreads.com/book/show/3040.Black_Rednecks_and_White_Liberals) by _Thomas Sowell_ 🎧 6/10
 1. [Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease―and How to Fight It](https://www.goodreads.com/en/book/show/49207255-why-we-get-sick) by _Benjamin Bikman_ 🎧 4/10
 1. [Ego Free Leadership: Ending the Unconscious Habits That Hijack Your Business](https://www.goodreads.com/en/book/show/31747095-ego-free-leadership) by _Brandon Black_ 🎧 5/10
 1. [Por si las voces vuelven](https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven) by _Angel Martín_ 🎧 5/10
 1. [Will](https://www.goodreads.com/en/book/show/58375739-will) by _Will Smith_ 🎧 7/10
-1. [Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka](https://www.goodreads.com/en/book/show/39793332-designing-event-driven-systems) by _Ben Stopford_ 3/10
+1. [Designing Event-Driven Systems: Concepts and Patterns for Streaming Services with Apache Kafka](https://www.goodreads.com/en/book/show/39793332-designing-event-driven-systems) by _Ben Stopford_ 3/10 🦾
 1. [How We Learn: Why Brains Learn Better Than Any Machine...for Now](https://www.goodreads.com/en/book/show/46064083-how-we-learn) by _Stanislas Dehaene_ 🎧 6/10
 
 # 2021
@@ -80,7 +81,7 @@
 1. [Un Mundo Aparte — 1 Europa y Asia](https://www.goodreads.com/book/show/27420723-un-mundo-aparte) by _Daniel Landa_ 9/10
 1. [Jugar con el Corazón: La excelencia no es suficiente](https://www.goodreads.com/book/show/8470669-jugar-con-el-coraz-n) by _Xesco Espar_ 3/10 [summary](https://www.notion.so/Jugar-con-el-Coraz-n-abf56b5c533640ffa043ba1d71b320e3)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by _Darren Hardy_ 🎧 8/10 [summary](https://www.notion.so/The-Compound-Effect-097e15edac63468bbaa7a79ae9b3d781)
-1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_ 7/10
+1. [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale](https://www.goodreads.com/book/show/28321010-kafka) by _Neha Narkhede, Gwen Shapira, Todd Palino_ 7/10 🦾
 1. [Nada](https://www.goodreads.com/book/show/6647312-nothing) by _Janne Teller_ 1/10
 1. ⭐️ [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by _Viktor E. Frankl_ 10/10 [summary](https://www.notion.so/A-Man-s-Search-for-Meaning-92002e0c50ad4e2fb551d5f2524eb01b)
 1. [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by _Richard H. Thaler, Cass R. Sunstein_ 🎧 5/10
@@ -89,10 +90,10 @@
 1. [Lorem ipsum](https://loremipsum.io/) by _Unknown Author_ 2/10
 1. [Communication Skills Training](https://www.goodreads.com/book/show/53510854-communication-skills-training) by _James W. Williams_ 7/10 [summary](https://www.notion.so/Communication-Skills-Training-5351c537bbc548f280f3ea3ab9983308)
 1. ⭐️ [La Luna es una cruel amante](https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress) by _Robert A. Heinlein_ 10/10
-1. ❤️ [Ramon i la Màquina de les Emocions](https://www.goodreads.com/book/show/57638383-el-ramon-i-la-m-quina-de-les-emocions) by _Júlia Carreras_ ∞/10
+1. [Ramon i la Màquina de les Emocions](https://www.goodreads.com/book/show/57638383-el-ramon-i-la-m-quina-de-les-emocions) by _Júlia Carreras_ ∞/10
 1. [Learning to Scale: The Secret to Growing a Fast and Resilient Company](https://www.goodreads.com/book/show/53614786-learning-to-scale) by _Régis Medina_ 6/10 [summary](https://www.notion.so/Learning-to-Scale-b6be3c2ae139430a8cdfa51c12ec7c5f)
-1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10
-1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10
+1. [ISO 20022 for dummies](https://www.goodreads.com/book/show/15736605-iso-20020-for-dummies) by _The SWIFT Standards Team_ 6/10 🦾
+1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 8/10 🦾
 1. ⭐️ [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ac=1&from_search=true&qid=QESwvHubkX&rank=1) by _Yuval Noah Harari_ 9/10
 1. [Guía del autoestopista galáctico](https://www.goodreads.com/book/show/6691227-gu-a-del-autoestopista-gal-ctico) by _Douglas Adams_ 10/10
 1. ⭐️ [Ten Drugs: How Plants, Powders, and Pills Have Shaped the History of Medicine](https://www.goodreads.com/book/show/41104130-ten-drugs) by _Thomas Hager_ 9/10
@@ -104,8 +105,8 @@
 1. [Show Your Work! 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/book/show/18290401-show-your-work) by _Austin Kleon_ 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vSYBmkj_iSSrTgbYVQhZC5iE8liTdxDyDpr90npuwyOpcMZZcHZPljOoCECduUuGx_sWxlJVbTXVoZY/pub)
 1. [El Príncipe](https://www.goodreads.com/book/show/56377744-el-pr-ncipe) by _Nicolás Maquiavelo_ 4/10
 1. [La Metamorfosis](https://www.goodreads.com/zh-TW/book/show/25921050-la-metamorfosis) by _Franz Kafka_ 7/10
-1. [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by _Robert C. Martin_ 5/10
-1. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by _Robert C. Martin_ 7/10
+1. [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by _Robert C. Martin_ 5/10 🦾
+1. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by _Robert C. Martin_ 7/10 🦾
 1. [Los cuatro acuerdos](https://www.goodreads.com/book/show/30119613-cuatro-acuerdos) by _Miguel Ruiz_ 1/10
 1. ⭐️ [Pensar rápido, pensar despacio](https://www.goodreads.com/book/show/38228086-pensar-r-pido-pensar-despacio) by _Daniel Kahneman_ 9/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTHkftWcP0QpE_usKNHlx83TxIdBrE_2gViQfh-XjpdUZKNq1epGRVld3dAc0X83xn-MhKb4RYbc2Kr/pub)
 1. [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by _Mark Manson_ 3/10 [summary](https://docs.google.com/document/d/e/2PACX-1vRCWkoaXoxqrbzO-vRGtfYTRijAC5RzWQKuhIQLP_CnjhUnNpZBGtkEibPmRCbTBLWov_pKv3t5w73I/pub)
@@ -131,7 +132,7 @@
 1. [The Half-Life of Marie Curie](https://www.goodreads.com/en/book/show/49416459-the-half-life-of-marie-curie) by _Lauren Gunderson_ 🎧. 8/10
 1. [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.goodreads.com/en/book/show/39067892-cognitive-behavioral-therapy) by _Jason M. Satterfield_ 🎧. 8/10
 1. [Tribes: We Need You to Lead Us](https://www.goodreads.com/book/show/3828382-tribes?ac=1&from_search=true&qid=kET6w9ZlJ4&rank=2) by _Seth Godin_ [summary](https://docs.google.com/document/d/e/2PACX-1vTxPghtEu5zLdpDzJmPnWXn5JMwkI7kw7ODwiji8B8KD3fiIzXhk4RAQmXXSzzACmbP3jh9uNr2ItXE/pub)
-1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_. 8/10
+1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_. 8/10 🦾
 1. [Los Cantos de Hyperion](https://www.goodreads.com/is/book/show/5774881-los-cantos-de-hyperion) by _Dan Simmons_. 4/10
 1. [What The Best Collage Teachers Do](https://www.goodreads.com/book/show/76696.What_the_Best_College_Teachers_Do) by _Ken Bain_. 7/10 [sumary](https://docs.google.com/document/d/e/2PACX-1vSVfF9VCojSKjyq6bVK8aW2IDdvZ012Luo8P4WeX5LwFkeD4-lKI1ECnWBL4Q8BKoP12xLbSlgafjpU/pub)
 1. [El método de la amabilidad](https://www.goodreads.com/book/show/39002963-the-kindness-method) by _Shahroo Izadi_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTZa231Xo3Erb5JfFJZB8XJ7W50V856rsb3EhrR5EFlL4rtOQ7XBTi-bffEhZJJyOg2TNt1AeWKOy8m/pub)
@@ -141,7 +142,6 @@
 
 # 2019
 
-1. [The Atlas Of Beauty: Women of the World in 500 Portraits](https://www.goodreads.com/book/show/34726138-the-atlas-of-beauty) by _Mihaela Noroc_ 7/10
 1. [El Mundo en mis Ojos](https://www.amazon.com/mundo-ojos-Steve-McCurry-Spanish/dp/841845900X) by _Steve McCurry_ 8/10
 1. [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing) by _Gary Keller and Jay Papasan_ 7/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTwMoAiZ4z5mZj9ISfJKIlbuOvM1f797kJIFsiJAMsPH5X_1zf4rHlq0vT06pRCASCoNFw3h28HLHjw/pub)
 1. [The Man on the Mountaintop](https://goodreads.com/book/show/43658721-the-man-on-the-mountaintop) by _Susan Trott_ 🎧. 7/10.
