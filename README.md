@@ -4,7 +4,6 @@
 	1. Homo Sol 1/10 
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
 1. [Go Givers Sell More](https://www.goodreads.com/en/book/show/7066084-go-givers-sell-more) by _Bob Burg_
-1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_  📸
@@ -12,6 +11,7 @@
 
 # 2022
 
+1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧 8/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁 🦾
 1. [Undressed](https://www.goodreads.com/it/book/show/34924060-mario-testino-undressed) by _Mario Testino_ 6/10 📸
 1. [Take your shot: How to Grow you business, attract more clients, and make more money](https://www.amazon.com/Take-Your-Shot-Business-Attract-ebook/dp/B074679GZ6) by _Robin Waite_ 4/10
