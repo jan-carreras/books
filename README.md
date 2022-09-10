@@ -11,6 +11,7 @@
 
 # 2022
 
+1. [#NSFW](https://www.goodreads.com/book/show/30963708-nsfw) by _Rankin_ 9/10 📸
 1. [In Focus: National Geographic Greatest Portraits](https://www.goodreads.com/en/book/show/9335814) by _National Geographic_  📸 6/10
 1. [The Craving Mind](https://www.goodreads.com/book/show/32714199-the-craving-mind) by _Judson Brewer_ 🎧 8/10
 1. [The Go Programming Language](https://www.goodreads.com/book/show/25080953-the-go-programming-language) by _Alan A.A. Donovan, Brian W. Kernighan_ 🔁 🦾
