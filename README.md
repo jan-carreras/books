@@ -8,6 +8,7 @@
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾
 1. [Network Programming with Go - Code secure and reliable network services from scratch](https://www.goodreads.com/en/book/show/52555535) by _Adam Woodbeck_ 🦾
+1. [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451) by _Ray Bradbury_
 
 # 2022
 
