@@ -71,7 +71,7 @@
 1. [Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by _Ray Dalio_ 8/10
 1. [Radical Candor: Fully Revised & Updated Edition](https://www.goodreads.com/book/show/52783257-radical-candor) by _Kim Malone Scott_ 🎧 6/10
 1. [How to Train Your Mind: Exploring the Productivity Benefits of Meditation](https://www.goodreads.com/book/show/56688463-how-to-train-your-mind) by _Chris Bailey_ 🎧 6/10
-1. [No Fears, No Excuses: What You Need to Do to Have a Great Career](https://www.goodreads.com/book/show/25897950-no-fears-no-excuses) by _Larry Smith_ 🎧 9/10
+1. [No Fears, No Excuses: What You Need to Do to Have a Great Career](https://www.goodreads.com/book/show/25897950-no-fears-no-excuses) by _Larry Smith_ 🎧 9/10 [summary](https://www.notion.so/No-Fears-No-Excuses-What-You-Need-to-Do-to-Have-a-Great-Career-6289daebd6d04ab4a0c65dc541d3c767)
 1. [All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars) by _Seth Godin_ 🎧 [summary](https://www.notion.so/All-Marketers-Are-Liars-The-Power-of-Telling-Authentic-Stories-in-a-Low-Trust-World-6d823bf01ee249d0bdd39cdcb3d62de5)
 1. [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.goodreads.com/book/show/23001125-everybody-writes) by _Ann Handley_ 5/10 [summary](https://www.notion.so/Everybody-writes-c2540f79212b48f58067e4cf8feb0ab2)
 1. [Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton](https://www.goodreads.com/book/show/52568258-wild-rescues) by _Kevin Grange_ 🎧 5/10
