@@ -18,6 +18,7 @@
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾
 1. [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧
 1. [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾
+1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club)
 
 # 2022
 
