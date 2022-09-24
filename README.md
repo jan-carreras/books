@@ -7,12 +7,12 @@
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾
-1. [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451) by _Ray Bradbury_
 1. [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧
 1. [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾
 
 # 2022
 
+1. [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451) by _Ray Bradbury_ 7/10
 1. [Network Programming with Go - Code secure and reliable network services from scratch](https://www.goodreads.com/en/book/show/52555535) by _Adam Woodbeck_ 🦾 7/10
 1. [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) by _Ben Horowitz_ 🎧 6/10
 1. [#NSFW](https://www.goodreads.com/book/show/30963708-nsfw) by _Rankin_ 9/10 📸
