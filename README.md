@@ -2,6 +2,8 @@
 
 1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
 	1. Homo Sol 1/10 
+	1. Mestizos en Venus
+	1. El numero imaginario
 1. Los Robots by _Isaac Asimov_
 	1. [Sally](https://www.goodreads.com/book/show/837232.Sally) by _Isaac Asimov_ 6/10
 1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
