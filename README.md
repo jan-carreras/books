@@ -19,7 +19,7 @@
 
 # 2022
 
-1. ⭐️ [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧 10/10
+1. ⭐️ [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧 10/10 [summary](https://www.notion.so/Switch-f0c324a9fa604960a0c322a0b95a5f24)
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾 8/10
 1. [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451) by _Ray Bradbury_ 7/10
 1. [Network Programming with Go - Code secure and reliable network services from scratch](https://www.goodreads.com/en/book/show/52555535) by _Adam Woodbeck_ 🦾 7/10
