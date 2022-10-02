@@ -16,10 +16,10 @@
 1. [Thing Explainer: Complicated Stuff in Simple Words](https://www.goodreads.com/book/show/25329850-thing-explainer) by _Randall Munroe_
 1. [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
-1. [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) by _Neal Stephenson_
 
 # 2022
 
+1. [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) by _Neal Stephenson_ 🎧 4/10
 1. ⭐️ [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧 10/10 [summary](https://www.notion.so/Switch-f0c324a9fa604960a0c322a0b95a5f24)
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾 8/10
 1. [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451) by _Ray Bradbury_ 7/10
