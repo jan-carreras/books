@@ -175,5 +175,3 @@
 
 
 [This is how I read books](https://private.jcarreras.es/posts/books/).
-
-[Edit](https://bitbucket.org/jcarreras/books/src/master/README.md?mode=edit&at=master)
