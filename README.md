@@ -1,7 +1,6 @@
 # Reading
 
 1. [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾
-1. [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/book/show/54895700-effortless) by _Greg McKeown_
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
 1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
 	1. Homo Sol 1/10 
@@ -21,6 +20,7 @@
 
 # 2022
 
+1. ⭐️ [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/book/show/54895700-effortless) by _Greg McKeown_  🎧 10/10
 1. [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) by _Neal Stephenson_ 🎧 4/10
 1. ⭐️ [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧 10/10 [summary](https://www.notion.so/Switch-f0c324a9fa604960a0c322a0b95a5f24)
 1. [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.goodreads.com/en/book/show/55841848) by _Jon Bodner_ 🦾 8/10
