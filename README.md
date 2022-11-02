@@ -17,6 +17,7 @@
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
+1. [Upstream: The Quest to Solve Problems Before They Happen](https://www.goodreads.com/book/show/48549702-upstream) by _Dan Heath_ 🎧
 
 # 2022
 
