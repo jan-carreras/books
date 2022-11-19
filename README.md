@@ -19,6 +19,7 @@
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
 1. [Upstream: The Quest to Solve Problems Before They Happen](https://www.goodreads.com/book/show/48549702-upstream) by _Dan Heath_ 🎧
 1. [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) by _Steven S. Skiena_
+1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_
 
 # 2022
 
