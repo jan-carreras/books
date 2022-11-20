@@ -17,6 +17,7 @@
 	1. [That Thou Art Mindful of Him](https://www.goodreads.com/en/book/show/28378205) by _Isaac Asimov_ 8/10
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
+1. [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.goodreads.com/book/show/222146.Masters_of_Doom) by _David Kushner_ 🎧
 
 # Reading - Study
 
