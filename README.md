@@ -17,12 +17,12 @@
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
-1. [Upstream: The Quest to Solve Problems Before They Happen](https://www.goodreads.com/book/show/48549702-upstream) by _Dan Heath_ 🎧
 1. [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) by _Steven S. Skiena_
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_
 
 # 2022
 
+1. [Upstream: The Quest to Solve Problems Before They Happen](https://www.goodreads.com/book/show/48549702-upstream) by _Dan Heath_ 🎧 6/10
 1. ⭐️ [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/book/show/54895700-effortless) by _Greg McKeown_  🎧 10/10
 1. [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash) by _Neal Stephenson_ 🎧 4/10
 1. ⭐️ [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch) by _Chip Heath, Dan Heath_ 🎧 10/10 [summary](https://www.notion.so/Switch-f0c324a9fa604960a0c322a0b95a5f24)
