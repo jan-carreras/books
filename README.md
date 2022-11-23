@@ -9,7 +9,7 @@
 	1. [That Thou Art Mindful of Him](https://www.goodreads.com/en/book/show/28378205) by _Isaac Asimov_ 8/10
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
-1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_
+1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_ 🎧
 
 # Reading - Study
 
