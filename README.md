@@ -1,16 +1,6 @@
 # Reading - General
 
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
-1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
-	1. Homo Sol 1/10 
-	1. Mestizos en Venus
-	1. El numero imaginario
-	1. Herencia 8/10
-	1. Historia 8/10
-	1. Navidades en Ganímedes 5/10
-	1. El hombrecillo del metro 8/10
-	1. Una novatada 5/10
-	1. Super neutrón 9/10
 1. Los Robots by _Isaac Asimov_
 	1. [Sally](https://www.goodreads.com/book/show/837232.Sally) by _Isaac Asimov_ 6/10
 1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
@@ -30,6 +20,18 @@
 
 # 2022
 
+1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
+	1. Homo Sol 1/10 
+	1. Mestizos en Venus
+	1. El numero imaginario
+	1. Herencia 8/10
+	1. Historia 8/10
+	1. Navidades en Ganímedes 5/10
+	1. El hombrecillo del metro 8/10
+	1. Una novatada 5/10
+	1. Super neutrón 9/10
+	1. ¡No Definitivo! 7/10
+	1. Ritos Legales 3/10
 1. [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.goodreads.com/book/show/222146.Masters_of_Doom) by _David Kushner_ 🎧 9/10
 1. [Upstream: The Quest to Solve Problems Before They Happen](https://www.goodreads.com/book/show/48549702-upstream) by _Dan Heath_ 🎧 6/10
 1. ⭐️ [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/book/show/54895700-effortless) by _Greg McKeown_  🎧 10/10
