@@ -15,13 +15,13 @@
 
 # Reading - Study
 
-1. [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) by _Steven S. Skiena_ 🦾
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾
 
 # 2022
 
+1. ⭐️ [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾 10/10
 1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
 	1. Homo Sol 1/10 
 	1. Mestizos en Venus
