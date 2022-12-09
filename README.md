@@ -12,6 +12,7 @@
 1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_ 🎧
 1. [The Millionaire Fastlane](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) by _M. J. DeMarco_ 🔁
 1. [La naranja mecánica](https://www.goodreads.com/book/show/54821938-la-naranja-mec-nica) by _Anthony Burgess_
+1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
 
 # Reading - Study
 
