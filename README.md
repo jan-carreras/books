@@ -9,7 +9,6 @@
 	1. [That Thou Art Mindful of Him](https://www.goodreads.com/en/book/show/28378205) by _Isaac Asimov_ 8/10
 	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
 1. [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_
-1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_ 🎧
 1. [The Millionaire Fastlane](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) by _M. J. DeMarco_ 🔁
 1. [La naranja mecánica](https://www.goodreads.com/book/show/54821938-la-naranja-mec-nica) by _Anthony Burgess_
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
@@ -22,6 +21,7 @@
 
 # 2022
 
+1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_ 🎧 5/10
 1. [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.goodreads.com/en/book/show/34758995-unscripted) by _M.J. DeMarco_ 🎧 2/10
 1. ⭐️ [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾 10/10
 1. [Selección 2](https://tercerafundacion.net/biblioteca/ver/libro/10204) by _Isaac Asimov_
