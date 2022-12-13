@@ -1,14 +1,6 @@
 # Reading - General
 
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
-1. Los Robots by _Isaac Asimov_
-	1. [Sally](https://www.goodreads.com/book/show/837232.Sally) by _Isaac Asimov_ 6/10
-1. [The Bicentenial man and other stories](https://www.goodreads.com/book/show/70787.The_Bicentennial_Man_and_Other_Stories) by _Isaac Asimov_
-	1. [Feminine Intuition](https://www.goodreads.com/en/book/show/28361345) by _Isaac Asimov_ 8/10
-	1. [Waterclap](https://www.goodreads.com/en/book/show/31695328) by _Isaac Asimov_ 5/10
-	1. [That Thou Art Mindful of Him](https://www.goodreads.com/en/book/show/28378205) by _Isaac Asimov_ 8/10
-	1. [Stranger in Paradise](https://www.goodreads.com/en/book/show/28183383) by _Isaac Asimov_ 2/10
-1. [The Millionaire Fastlane](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) by _M. J. DeMarco_ 🔁
 1. [La naranja mecánica](https://www.goodreads.com/book/show/54821938-la-naranja-mec-nica) by _Anthony Burgess_
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
 
