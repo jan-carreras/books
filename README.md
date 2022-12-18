@@ -8,6 +8,7 @@
 
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾
+1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾
 
 # 2022
 
