@@ -1,7 +1,6 @@
 # Reading - General
 
 1. [Los sueños de Júpiter](https://www.goodreads.com/es/book/show/63417.Jupiter_s_Travels) by _Ted Simons_
-1. [La naranja mecánica](https://www.goodreads.com/book/show/54821938-la-naranja-mec-nica) by _Anthony Burgess_
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
 1. [El viejo y el mar](https://www.goodreads.com/book/show/56274859-el-viejo-y-el-mar) by _Ernest Heminway_
 
@@ -13,6 +12,7 @@
 
 # 2022
 
+1. [La naranja mecánica](https://www.goodreads.com/book/show/54821938-la-naranja-mec-nica) by _Anthony Burgess_ 6/10
 1. ⭐️ [Fight Club](https://www.goodreads.com/book/show/36236124-fight-club) by _Chuck Palahniuk_ 9/10
 1. [Frankenstein](https://www.goodreads.com/book/show/801675.Frankenstein) by _Mary Wollstonecraft Shelley_ 🎧 5/10
 1. ⭐️ [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.goodreads.com/book/show/44882.Code) by _Charles Petzold_ 🦾 10/10
