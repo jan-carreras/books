@@ -1,6 +1,9 @@
 # Reading - General
 
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
+1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁 10/10
+1. [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by _Donald A. Norman_
+1. [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) by _Brian Christian_
 
 # Reading - Study
 
