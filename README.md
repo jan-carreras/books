@@ -5,6 +5,8 @@
 1. [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by _Donald A. Norman_
 1. [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) by _Brian Christian_
 1. [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
+1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
+1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_
 
 # Reading - Study
 
