@@ -163,7 +163,7 @@
 1. [Los Cantos de Hyperion](https://www.goodreads.com/is/book/show/5774881-los-cantos-de-hyperion) by _Dan Simmons_. 4/10
 1. [What The Best Collage Teachers Do](https://www.goodreads.com/book/show/76696.What_the_Best_College_Teachers_Do) by _Ken Bain_. 7/10 [sumary](https://docs.google.com/document/d/e/2PACX-1vSVfF9VCojSKjyq6bVK8aW2IDdvZ012Luo8P4WeX5LwFkeD4-lKI1ECnWBL4Q8BKoP12xLbSlgafjpU/pub)
 1. [El método de la amabilidad](https://www.goodreads.com/book/show/39002963-the-kindness-method) by _Shahroo Izadi_. 6/10 [summary](https://docs.google.com/document/d/e/2PACX-1vTZa231Xo3Erb5JfFJZB8XJ7W50V856rsb3EhrR5EFlL4rtOQ7XBTi-bffEhZJJyOg2TNt1AeWKOy8m/pub)
-1. ⭐️ [Sobre la Brevedad de la Vida](https://www.goodreads.com/book/show/23636776-sobre-la-brevedad-de-la-vida-el-ocio-y-la-felicidad) by _Séneca_. 9/10 [libro](ttp://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf)
+1. ⭐️ [Sobre la Brevedad de la Vida](https://www.goodreads.com/book/show/23636776-sobre-la-brevedad-de-la-vida-el-ocio-y-la-felicidad) by _Séneca_. 9/10 [libro](http://www.juntadeandalucia.es/cultura/bivian/media/flashbooks/lecturas_pendientes/sobre_la_brevedad_de_la_vida/files/seneca.pdf)
 1. [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect?ac=1&from_search=true&qid=519pydflOx&rank=1) by _Darren Hardy_ [summary](https://docs.google.com/document/d/e/2PACX-1vRXPBvBpNi4AwEx32m7SYX6VrA0n2KC3hk2C0XeTAYmF5ZDzSIluD5SBvsUWZy33EsLLo6unIRg6ft_/pub)
 1. [Out of My Mind](https://goodreads.com/book/show/43169404-out-of-my-mind) by _Alan Arkin_ 🎧. 2/10
 
