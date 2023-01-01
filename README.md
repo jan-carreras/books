@@ -3,7 +3,6 @@
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁 10/10
 1. [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by _Donald A. Norman_
-1. [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) by _Brian Christian_
 1. [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
@@ -13,6 +12,10 @@
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾
 1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾
+
+# 2023
+
+1. [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) by _Brian Christian_ 🎧 7/10
 
 # 2022
 
