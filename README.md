@@ -8,10 +8,10 @@
 
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾
-1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾
 
 # 2023
 
+1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾 9/10
 1. [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_ 4/10
 1. [Sapiens - A Graphic History](https://www.goodreads.com/book/show/54110137-sapiens) by _Yuval Noah Harari_ 7/10
 1. [The Almanack of Naval Ravikant](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant) by _Eric Jorgenson_ 🔁
