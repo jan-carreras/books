@@ -1,6 +1,5 @@
 # Reading - General
 
-1. [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by _Donald A. Norman_
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
 
