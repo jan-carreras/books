@@ -2,6 +2,7 @@
 
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
+1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_
 
 # Reading - Study
 
