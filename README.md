@@ -2,7 +2,6 @@
 
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
-1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_
 
 # Reading - Study
 
@@ -12,6 +11,7 @@
 
 # 2023
 
+1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_ 8/10
 1. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by _John Ousterhout_ 🦾 4/10
 1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾 9/10
 1. [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by _Henry Hazlitt_ 4/10
