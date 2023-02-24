@@ -11,6 +11,7 @@
 
 # 2023
 
+1. [Llamada de lo salvaje](https://www.goodreads.com/book/show/20764225-la-llamada-de-lo-salvaje-finis) by _Jack London_ 8/10
 1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_ 8/10
 1. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by _John Ousterhout_ 🦾 4/10
 1. [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by _Aditya Y. Bhargava_ 🦾 9/10
