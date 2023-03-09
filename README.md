@@ -2,6 +2,8 @@
 
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
+1. [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by _Cal Newport_
+1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 
 # Reading - Study
 
