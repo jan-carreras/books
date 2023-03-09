@@ -1,7 +1,6 @@
 # Reading - General
 
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
-1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
 1. [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by _Cal Newport_
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 
@@ -13,6 +12,7 @@
 
 # 2023
 
+1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
 1. [Llamada de lo salvaje](https://www.goodreads.com/book/show/20764225-la-llamada-de-lo-salvaje-finis) by _Jack London_ 8/10
 1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_ 8/10
 1. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by _John Ousterhout_ 🦾 4/10
