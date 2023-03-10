@@ -4,7 +4,7 @@
 1. [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by _Cal Newport_
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_
+1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧
 
 # Reading - Study
 
