@@ -5,6 +5,7 @@
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧
+1. [The Man Who Planted Trees](https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees) by _Jean Giono_
 
 # Reading - Study
 
