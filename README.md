@@ -15,7 +15,7 @@
 # 2023
 
 1. [The Man Who Planted Trees](https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees) by _Jean Giono_ 8/10
-1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧
+1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧 3/10
 1. [Llamada de lo salvaje](https://www.goodreads.com/book/show/20764225-la-llamada-de-lo-salvaje-finis) by _Jack London_ 8/10
 1. [Kurashi at Home: How to Organize Your Space and Achieve Your Ideal Life](https://www.goodreads.com/book/show/63325288-kurashi-at-home) by _Marie Kondō_ 8/10
 1. [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by _John Ousterhout_ 🦾 4/10
