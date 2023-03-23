@@ -1,15 +1,15 @@
 # Reading - General
 
-1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by _Cal Newport_
-1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
+1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
+1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 
 # Reading - Study
 
-1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
+1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
 
 # 2023
 
