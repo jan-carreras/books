@@ -4,7 +4,6 @@
 1. [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by _Cal Newport_
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧
 
 # Reading - Study
 
@@ -14,6 +13,7 @@
 
 # 2023
 
+1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧 7/10
 1. [The Man Who Planted Trees](https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees) by _Jean Giono_ 8/10
 1. [Children of Dune](https://www.goodreads.com/book/show/44492286-children-of-dune) by _Frank Herbert_ 🎧 3/10
 1. [Llamada de lo salvaje](https://www.goodreads.com/book/show/20764225-la-llamada-de-lo-salvaje-finis) by _Jack London_ 8/10
