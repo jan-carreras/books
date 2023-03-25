@@ -4,6 +4,7 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
+1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
 
 # Reading - Study
 
