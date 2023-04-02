@@ -4,6 +4,7 @@
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
 1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
+1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
 
 # Reading - Study
 
