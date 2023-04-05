@@ -2,7 +2,6 @@
 
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) by _William Zinsser_
-1. [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_
 1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
 1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
@@ -12,6 +11,7 @@
 
 # 2023
 
+1. ⭐️ [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_ 8/10
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾 9/10
 1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧 7/10
 1. [The Man Who Planted Trees](https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees) by _Jean Giono_ 8/10
