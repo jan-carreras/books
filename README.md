@@ -1,6 +1,5 @@
 # Reading
 
-1. [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107) by _Tanya Reilly_ 🦾
 1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by _Martin Kleppmann_ 🔁 🦾
@@ -12,6 +11,7 @@
 
 # 2023
 
+1. ⭐️ [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107) by _Tanya Reilly_ 🦾 9/10
 1. ⭐️ [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_ 8/10
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾 9/10
 1. [Projections: A Story of Human Emotions](https://www.goodreads.com/en/book/show/55411738) by _Karl Deisseroth_ 🎧 7/10
