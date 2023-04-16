@@ -1,5 +1,6 @@
 # Reading
 
+1. [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/en/book/show/44144493) by _Mark Richards_ 🦾 
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_
 1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
