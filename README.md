@@ -6,6 +6,7 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
+1. [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.goodreads.com/book/show/21856367-the-innovators) by _Walter Isaacson_ 🎧
 
 
 # 2023
