@@ -2,7 +2,6 @@
 
 1. [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/en/book/show/44144493) by _Mark Richards_ 🦾 
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_
-1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
@@ -11,6 +10,7 @@
 
 # 2023
 
+1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧 4/10
 1. ⭐️ [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107) by _Tanya Reilly_ 🦾 9/10
 1. ⭐️ [Meditaciones](https://www.goodreads.com/book/show/24407047-meditaciones) by _Marcus Aurelius_ 8/10
 1. [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms) by _Robert Sedgewick_ 🦾 9/10
