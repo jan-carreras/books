@@ -1,5 +1,6 @@
 # Reading
 
+1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
