@@ -6,11 +6,10 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
-1. [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.goodreads.com/book/show/21856367-the-innovators) by _Walter Isaacson_ 🎧
-
 
 # 2023
 
+1. [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.goodreads.com/book/show/21856367-the-innovators) by _Walter Isaacson_ 🎧 6/10
 1. [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/en/book/show/44144493) by _Mark Richards_ 🦾 8/10
 1. [Good Power: Leading Positive Change in Our Lives, Work, and World](https://www.goodreads.com/book/show/68449976-good-power) by _Ginni Rometty_ 🎧 4/10
 1. ⭐️ [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107) by _Tanya Reilly_ 🦾 9/10
