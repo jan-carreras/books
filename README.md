@@ -9,6 +9,7 @@
 	1. [Scott Pilgrim's Precious Little Life](https://www.goodreads.com/book/show/29800.Scott_Pilgrim_s_Precious_Little_Life)  
 	1. [Scott Pilgrim vs. The World](https://www.goodreads.com/book/show/29801.Scott_Pilgrim_vs_The_World)
 	1. [Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness](https://www.goodreads.com/book/show/29802.Scott_Pilgrim_Volume_3)
+	1. [Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together](https://www.goodreads.com/book/show/744615.Scott_Pilgrim_Volume_4)
 
 # 2023
 
