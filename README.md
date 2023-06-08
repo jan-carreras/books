@@ -1,6 +1,5 @@
 # Reading
 
-1. [I'd like to play alone, please](https://www.goodreads.com/en/book/show/57007950) by _Tom Segura_ 🎧
 1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
@@ -13,6 +12,7 @@
 
 # 2023
 
+1. [I'd like to play alone, please](https://www.goodreads.com/en/book/show/57007950) by _Tom Segura_ 🎧 6/10
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_ 8/10
 1. [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.goodreads.com/book/show/21856367-the-innovators) by _Walter Isaacson_ 🎧 6/10
 1. [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/en/book/show/44144493) by _Mark Richards_ 🦾 8/10
