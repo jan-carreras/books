@@ -1,5 +1,6 @@
 # Reading
 
+1. [We Are Legion (We Are Bob)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by _Dennis E. Taylor_ 🎧
 1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
