@@ -1,7 +1,7 @@
 # Reading
 
-1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_
-1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🎧
+1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_ 🦾 
+1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Peleando a la contra](https://www.goodreads.com/book/show/70896.Peleando_a_la_contra) by _Charles Bukowski_
