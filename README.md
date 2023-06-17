@@ -1,5 +1,6 @@
 # Reading
 
+1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_ 🦾 
 1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
