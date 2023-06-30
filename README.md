@@ -15,6 +15,7 @@
 
 # 2023
 
+1. [Lorem ipsum Holder](https://loremipsum.io/) by _Unknown Author_ 6/10
 1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾 7/10
 1. [We Are Legion (We Are Bob)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by _Dennis E. Taylor_ 🎧 8/10
 1. [I'd like to play alone, please](https://www.goodreads.com/en/book/show/57007950) by _Tom Segura_ 🎧 6/10
