@@ -1,5 +1,6 @@
 # Reading
 
+1. [For We Are Many: 2 (Bobiverse)](https://www.goodreads.com/en/book/show/33395557) by _Dennis E. Taylor_ 🎧
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
