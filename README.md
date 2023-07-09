@@ -6,18 +6,19 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. Scott Pilgrim Series by _Bryan Lee O'Malley_
-	1. [Scott Pilgrim's Precious Little Life](https://www.goodreads.com/book/show/29800.Scott_Pilgrim_s_Precious_Little_Life)  
-	1. [Scott Pilgrim vs. The World](https://www.goodreads.com/book/show/29801.Scott_Pilgrim_vs_The_World)
-	1. [Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness](https://www.goodreads.com/book/show/29802.Scott_Pilgrim_Volume_3)
-	1. [Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together](https://www.goodreads.com/book/show/744615.Scott_Pilgrim_Volume_4)
+
 
 # 2023
 
+1. [Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together](https://www.goodreads.com/book/show/744615.Scott_Pilgrim_Volume_4) 🍦
 1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_ 🦾 7/10
 1. [Lorem ipsum Holder](https://loremipsum.io/) by _Unknown Author_ 6/10
+1. [Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness](https://www.goodreads.com/book/show/29802.Scott_Pilgrim_Volume_3) 🍦
 1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾 7/10
+1. [Scott Pilgrim vs. The World](https://www.goodreads.com/book/show/29801.Scott_Pilgrim_vs_The_World) 🍦
 1. [We Are Legion (We Are Bob)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by _Dennis E. Taylor_ 🎧 8/10
 1. [I'd like to play alone, please](https://www.goodreads.com/en/book/show/57007950) by _Tom Segura_ 🎧 6/10
+1. [Scott Pilgrim's Precious Little Life](https://www.goodreads.com/book/show/29800.Scott_Pilgrim_s_Precious_Little_Life)  🍦
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_ 8/10
 1. [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.goodreads.com/book/show/21856367-the-innovators) by _Walter Isaacson_ 🎧 6/10
 1. [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/en/book/show/44144493) by _Mark Richards_ 🦾 8/10
