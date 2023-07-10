@@ -11,6 +11,7 @@
 
 # 2023
 
+1. [Head First Design Patterns](https://www.goodreads.com/en/book/show/58128) by _Elisabeth and Eric Freeman_ 🦾 1/10
 1. [Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together](https://www.goodreads.com/book/show/744615.Scott_Pilgrim_Volume_4) 🍦
 1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_ 🦾 7/10
 1. [Lorem ipsum Holder](https://loremipsum.io/) by _Unknown Author_ 6/10
