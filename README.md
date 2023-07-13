@@ -1,7 +1,7 @@
 # Reading
 
+1. [All These Worlds](https://www.goodreads.com/is/book/show/35506021-all-these-worlds) by _Dennis E. Taylor_ 🎧
 1. [System Design Interview](https://www.goodreads.com/en/book/show/54109255) by _Alex Xu_
-1. [For We Are Many: 2 (Bobiverse)](https://www.goodreads.com/en/book/show/33395557) by _Dennis E. Taylor_ 🎧
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
@@ -12,6 +12,7 @@
 
 # 2023
 
+1. [For We Are Many: 2 (Bobiverse)](https://www.goodreads.com/en/book/show/33395557) by _Dennis E. Taylor_ 🎧 8/10
 1. [Head First Design Patterns](https://www.goodreads.com/en/book/show/58128) by _Elisabeth and Eric Freeman_ 🦾 1/10
 1. [Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together](https://www.goodreads.com/book/show/744615.Scott_Pilgrim_Volume_4) 🍦
 1. [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by _Vladik Khononov_ 🦾 7/10
