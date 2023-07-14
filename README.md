@@ -20,7 +20,7 @@
 1. [Scott Pilgrim, Volume 3: Scott Pilgrim & The Infinite Sadness](https://www.goodreads.com/book/show/29802.Scott_Pilgrim_Volume_3) 🍦
 1. [Microservices Patterns](https://www.goodreads.com/en/book/show/34372564-microservice-patterns) by _Chris Richardson_ 🦾 7/10
 1. [Scott Pilgrim vs. The World](https://www.goodreads.com/book/show/29801.Scott_Pilgrim_vs_The_World) 🍦
-1. [We Are Legion (We Are Bob)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by _Dennis E. Taylor_ 🎧 8/10
+1. [We Are Legion (We Are Bob): 1 (Bobiverse)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by _Dennis E. Taylor_ 🎧 8/10
 1. [I'd like to play alone, please](https://www.goodreads.com/en/book/show/57007950) by _Tom Segura_ 🎧 6/10
 1. [Scott Pilgrim's Precious Little Life](https://www.goodreads.com/book/show/29800.Scott_Pilgrim_s_Precious_Little_Life)  🍦
 1. [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) by _Richar P. Freynman_ 8/10
