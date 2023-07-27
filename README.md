@@ -6,11 +6,11 @@
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
-1. Scott Pilgrim Series by _Bryan Lee O'Malley_
-
 
 # 2023
 
+1. [Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour](https://www.goodreads.com/book/show/7904429-scott-pilgrim-volume-6) 🍦
+1. [Scott Pilgrim, Volume 5: Scott Pilgrim vs. the Universe](https://www.goodreads.com/book/show/5989573-scott-pilgrim-volume-5) 🍦
 1. [All These Worlds: 3 (Bobiverse)](https://www.goodreads.com/is/book/show/35506021-all-these-worlds) by _Dennis E. Taylor_ 🎧 8/10
 1. [For We Are Many: 2 (Bobiverse)](https://www.goodreads.com/en/book/show/33395557) by _Dennis E. Taylor_ 🎧 8/10
 1. [Head First Design Patterns](https://www.goodreads.com/en/book/show/58128) by _Elisabeth and Eric Freeman_ 🦾 1/10
