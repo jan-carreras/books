@@ -6,6 +6,7 @@
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
+1. [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902) by _Donella H. Meadows_ 🦾
 
 # 2023
 
