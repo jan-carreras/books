@@ -10,6 +10,7 @@
 
 # 2023
 
+1. [El Alquimista](https://www.goodreads.com/en/book/show/18144590) by _Paulo Coelho_ 4/10
 1. [Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour](https://www.goodreads.com/book/show/7904429-scott-pilgrim-volume-6) 🍦
 1. [Scott Pilgrim, Volume 5: Scott Pilgrim vs. the Universe](https://www.goodreads.com/book/show/5989573-scott-pilgrim-volume-5) 🍦
 1. [All These Worlds: 3 (Bobiverse)](https://www.goodreads.com/is/book/show/35506021-all-these-worlds) by _Dennis E. Taylor_ 🎧 8/10
