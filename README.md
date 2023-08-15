@@ -2,7 +2,6 @@
 
 1. [System Design Interview](https://www.goodreads.com/en/book/show/54109255) by _Alex Xu_
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
-1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧
 1. [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar) by _Eric S. Raymond_ 🔁 🦾
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
@@ -15,6 +14,7 @@
 
 # 2023
 
+1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧 7/10
 1. [El Alquimista](https://www.goodreads.com/en/book/show/18144590) by _Paulo Coelho_ 4/10
 1. [Scott Pilgrim, Volume 6: Scott Pilgrim's Finest Hour](https://www.goodreads.com/book/show/7904429-scott-pilgrim-volume-6) 🍦
 1. [Scott Pilgrim, Volume 5: Scott Pilgrim vs. the Universe](https://www.goodreads.com/book/show/5989573-scott-pilgrim-volume-5) 🍦
