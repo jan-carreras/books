@@ -8,9 +8,10 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [System Design Interview](https://www.goodreads.com/en/book/show/54109255) by _Alex Xu_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
-1. [Zero To Production In Rust](https://www.zero2prod.com/index.html) by _Luca Palmieri_
-1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_
-1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_
+1. [Zero To Production In Rust](https://www.zero2prod.com/index.html) by _Luca Palmieri_ 🦾
+1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_ 🦾
+1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_ 🎧
+1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 
 
 # 2023
