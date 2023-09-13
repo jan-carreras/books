@@ -1,7 +1,6 @@
 # Reading
 
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
-1. [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by _Leo Tolstoy_
 1. [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
@@ -15,6 +14,7 @@
 
 # 2023
 
+1. [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by _Leo Tolstoy_ 7/10
 1. [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902) by _Donella H. Meadows_ 🦾 6/10
 1. [The Field Guide to Global Payments](https://www.goodreads.com/book/show/118320901-the) by _Ethan Cole_ 9/10
 1. [The Alignment Problem: Machine Learning and Human Values](https://goodreads.com/book/show/50489349-the-alignment-problem) by _Brian Christian_ 🦾 🎧 7/10
