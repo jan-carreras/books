@@ -8,12 +8,12 @@
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Zero To Production In Rust](https://www.zero2prod.com/index.html) by _Luca Palmieri_ 🦾
 1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_ 🦾
-1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_ 🎧
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 
 
 # 2023
 
+1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_ 🎧 7/10
 1. [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by _Leo Tolstoy_ 7/10
 1. [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902) by _Donella H. Meadows_ 🦾 6/10
 1. [The Field Guide to Global Payments](https://www.goodreads.com/book/show/118320901-the) by _Ethan Cole_ 9/10
