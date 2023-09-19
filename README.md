@@ -13,6 +13,7 @@
 
 # 2023
 
+1. [Crónicas marcianas by Ray Bradbury](https://www.goodreads.com/no/book/show/46229685) by _Ray Bradbury_ 5/10
 1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_ 🎧 7/10
 1. [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by _Leo Tolstoy_ 7/10
 1. [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902) by _Donella H. Meadows_ 🦾 6/10
