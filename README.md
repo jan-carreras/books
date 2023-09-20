@@ -9,6 +9,7 @@
 1. [Zero To Production In Rust](https://www.zero2prod.com/index.html) by _Luca Palmieri_ 🦾
 1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_ 🦾
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
+1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 
 
 # 2023
