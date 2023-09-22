@@ -10,11 +10,11 @@
 1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_ 🦾
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
-1. [Crónica de una muerte anunciada](https://www.goodreads.com/book/show/4031724-garc-a-m-rquez) by _García Márquez_
 1. [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by _Andy Weir_
 
 # 2023
 
+1. [Crónica de una muerte anunciada](https://www.goodreads.com/book/show/4031724-garc-a-m-rquez) by _García Márquez_
 1. [Crónicas marcianas by Ray Bradbury](https://www.goodreads.com/no/book/show/46229685) by _Ray Bradbury_ 5/10
 1. [Heaven's River: 4 (Bobiverse)](https://www.goodreads.com/book/show/42950440-heaven-s-river) by _Dennis E. Taylor_ 🎧 7/10
 1. [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) by _Leo Tolstoy_ 7/10
