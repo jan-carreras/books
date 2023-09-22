@@ -11,6 +11,7 @@
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Crónica de una muerte anunciada](https://www.goodreads.com/book/show/4031724-garc-a-m-rquez) by _García Márquez_
+1. [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by _Andy Weir_
 
 # 2023
 
