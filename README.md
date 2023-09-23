@@ -1,10 +1,10 @@
 # Reading
 
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
-1. [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_
+1. [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_  🦾
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [System Design Interview](https://www.goodreads.com/en/book/show/54109255) by _Alex Xu_
+1. [System Design Interview](https://www.goodreads.com/en/book/show/54109255) by _Alex Xu_ 🦾
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Zero To Production In Rust](https://www.zero2prod.com/index.html) by _Luca Palmieri_ 🦾
 1. [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by _Jim Blandy_ 🦾
