@@ -8,6 +8,7 @@
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by _Andy Weir_  🎧
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
+1. [Ubik](https://www.goodreads.com/book/show/22590.Ubik) by _Philip K. Dick_
 
 # 2023
 
