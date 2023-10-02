@@ -12,6 +12,7 @@
 
 # 2023
 
+1. [The Doors of Perception](https://www.goodreads.com/en/book/show/3188964) by _Aldous Huxley_ 5/10
 1. ⭐️ [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by _Andy Weir_  🎧 9/10
 1. [Crónica de una muerte anunciada](https://www.goodreads.com/book/show/4031724-garc-a-m-rquez) by _García Márquez_ 8/10
 1. [Crónicas marcianas by Ray Bradbury](https://www.goodreads.com/no/book/show/46229685) by _Ray Bradbury_ 5/10
