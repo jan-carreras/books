@@ -7,11 +7,11 @@
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [Ubik](https://www.goodreads.com/book/show/22590.Ubik) by _Philip K. Dick_
 1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
 
 # 2023
 
+1. [Ubik](https://www.goodreads.com/book/show/22590.Ubik) by _Philip K. Dick_ 3/10
 1. [The Doors of Perception](https://www.goodreads.com/en/book/show/3188964) by _Aldous Huxley_ 5/10
 1. ⭐️ [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by _Andy Weir_  🎧 9/10
 1. [Crónica de una muerte anunciada](https://www.goodreads.com/book/show/4031724-garc-a-m-rquez) by _García Márquez_ 8/10
