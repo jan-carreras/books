@@ -8,6 +8,7 @@
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
+1. [Cat's Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle) by _Kurt Vonnegut Jr._
 
 # 2023
 
