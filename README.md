@@ -9,10 +9,10 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
-1. [El mito de sísifo](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by _Albert Camus_
 
 # 2023
 
+1. [El mito de sísifo](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by _Albert Camus_ 3/10
 1. ⭐️ [Cat's Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle) by _Kurt Vonnegut Jr._ 9/10
 1. [Ubik](https://www.goodreads.com/book/show/22590.Ubik) by _Philip K. Dick_ 3/10
 1. [The Doors of Perception](https://www.goodreads.com/en/book/show/3188964) by _Aldous Huxley_ 5/10
