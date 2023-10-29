@@ -1,7 +1,6 @@
 # Reading
 
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
-1. [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_  🦾
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
@@ -12,6 +11,7 @@
 
 # 2023
 
+1. ⭐️ [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_  🦾 10/10
 1. [El mito de sísifo](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by _Albert Camus_ 3/10
 1. ⭐️ [Cat's Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle) by _Kurt Vonnegut Jr._ 9/10
 1. [Ubik](https://www.goodreads.com/book/show/22590.Ubik) by _Philip K. Dick_ 3/10
