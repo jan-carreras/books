@@ -11,6 +11,7 @@
 
 # 2023
 
+1. [The Anatomy of the Swipe: Making Money Move](https://www.goodreads.com/book/show/53521551-the-anatomy-of-the-swipe) 5/10 
 1. ⭐️ [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_  🦾 10/10
 1. [El mito de sísifo](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by _Albert Camus_ 3/10
 1. ⭐️ [Cat's Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle) by _Kurt Vonnegut Jr._ 9/10
