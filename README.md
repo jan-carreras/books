@@ -8,6 +8,9 @@
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
+1. [The Tibetan Book of the Dead](https://www.goodreads.com/en/book/show/208123) by _Padmasambhava_
+1. [Remote: Office Not Required](https://www.goodreads.com/en/book/show/17316682) by _David Heinemeier Hansson_
+1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_
 
 # 2023
 
