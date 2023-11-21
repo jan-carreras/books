@@ -9,11 +9,11 @@
 1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
 1. [The Tibetan Book of the Dead](https://www.goodreads.com/en/book/show/208123) by _Padmasambhava_
-1. [Remote: Office Not Required](https://www.goodreads.com/en/book/show/17316682) by _David Heinemeier Hansson_ 🦾
 1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
 
 # 2023
 
+1. [Remote: Office Not Required](https://www.goodreads.com/en/book/show/17316682) by _David Heinemeier Hansson_ 🦾 3/10
 1. [The Anatomy of the Swipe: Making Money Move](https://www.goodreads.com/book/show/53521551-the-anatomy-of-the-swipe) 5/10 
 1. ⭐️ [Operating Systems: Three Easy Pieces](https://www.goodreads.com/en/book/show/17374825) by _Remzi H. Arpaci-Dusseau_  🦾 10/10
 1. [El mito de sísifo](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by _Albert Camus_ 3/10
