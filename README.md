@@ -1,16 +1,19 @@
 # Reading
 
+1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
+1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 
+1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
+
+1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
-1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
+
 1. [The Tibetan Book of the Dead](https://www.goodreads.com/en/book/show/208123) by _Padmasambhava_
-1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
-1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 
+
 
 # 2023
 
