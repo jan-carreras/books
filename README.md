@@ -11,7 +11,6 @@
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-
 1. [The Tibetan Book of the Dead](https://www.goodreads.com/en/book/show/208123) by _Padmasambhava_
 
 
