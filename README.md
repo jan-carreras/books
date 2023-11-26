@@ -10,6 +10,7 @@
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
 1. [The Tibetan Book of the Dead](https://www.goodreads.com/en/book/show/208123) by _Padmasambhava_
 1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
+1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 
 
 # 2023
 
