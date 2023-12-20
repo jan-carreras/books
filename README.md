@@ -4,7 +4,6 @@ To finish in 2023:
 
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
 1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 
-1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧
 
 To finish in 2024:
 
@@ -19,6 +18,7 @@ To finish in 2024:
 
 # 2023
 
+1. [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) by _Richard Dawkins_ 🎧 6/10
 1. [El Problema de los Tres Cuerpos 1/3](https://www.goodreads.com/book/show/129806971-el-problema-de-los-tres-cuerpos-trilog-a-de-los-tres-cuerpos-1) by _Cixin Liu_ 6/10
 1. [Remote: Office Not Required](https://www.goodreads.com/en/book/show/17316682) by _David Heinemeier Hansson_ 🦾 3/10
 1. [The Anatomy of the Swipe: Making Money Move](https://www.goodreads.com/book/show/53521551-the-anatomy-of-the-swipe) 5/10 
