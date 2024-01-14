@@ -1,8 +1,5 @@
 # Reading
 
-To finish in 2023:
-
-1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_
 1. [Crucial Conversations When The Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by _Kerry Patterson_ 🔁
 1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
@@ -15,6 +12,7 @@ To finish in 2023:
 
 # 2024
 
+1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 5/10
 1. [The Power of Vulnerability: Teachings of Authenticity, Connections and Courage](https://www.goodreads.com/en/book/show/23500254) by _Brené Brown_ 🎧 7/10
 
 # 2023
