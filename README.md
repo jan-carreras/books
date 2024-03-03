@@ -14,6 +14,7 @@
 
 1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 5/10
 1. [The Power of Vulnerability: Teachings of Authenticity, Connections and Courage](https://www.goodreads.com/en/book/show/23500254) by _Brené Brown_ 🎧 7/10
+1. [La Máquina del Tiempo](https://www.goodreads.com/book/show/87468480-la-m-quina-del-tiempo) by _H.G. Wells_ 7/10
 
 # 2023
 
