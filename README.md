@@ -10,6 +10,7 @@
 
 # 2024
 
+1. [L'amour dure trois ans](https://www.goodreads.com/book/show/522453.L_amour_dure_trois_ans) by _Frédéric Beigbeder_ 8/10
 1. [A Single Man](https://www.goodreads.com/book/show/16842.A_Single_Man) by _Christopher Isherwood_ 5/10
 1. [The Power of Vulnerability: Teachings of Authenticity, Connections and Courage](https://www.goodreads.com/en/book/show/23500254) by _Brené Brown_ 🎧 7/10
 1. [La Máquina del Tiempo](https://www.goodreads.com/book/show/87468480-la-m-quina-del-tiempo) by _H.G. Wells_ 7/10
