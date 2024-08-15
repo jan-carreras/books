@@ -1,5 +1,8 @@
 # Reading
 
+1. [Segunda fundación](https://www.goodreads.com/book/show/58153.Segunda_Fundaci_n) by _Isaac Asimov_
+1. [Fundación e Imperio](https://www.goodreads.com/book/show/53694.Fundaci_n_e_Imperio) by _Isaac Asimov_
+1. [Fundación](https://www.goodreads.com/book/show/29579.Foundation) by _Isaac Asimov_
 1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
 1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
