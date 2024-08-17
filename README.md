@@ -8,6 +8,8 @@
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
+1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_
+1. [Nemesis](https://www.goodreads.com/en/book/show/302625.Nemesis) by _Isaac Asimov_ 🎧 
 
 # 2024
 
