@@ -9,11 +9,11 @@
 1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
 1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_
-1. [Nemesis](https://www.goodreads.com/en/book/show/302625.Nemesis) by _Isaac Asimov_ 🎧
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
 
 # 2024
 
+1. [Nemesis](https://www.goodreads.com/en/book/show/302625.Nemesis) by _Isaac Asimov_ 🎧 5/10
 1. [Segunda fundación](https://www.goodreads.com/book/show/58153.Segunda_Fundaci_n) by _Isaac Asimov_ 8/10
 1. [Fundación e Imperio](https://www.goodreads.com/book/show/53694.Fundaci_n_e_Imperio) by _Isaac Asimov_ 8/10
 1. [Fundación](https://www.goodreads.com/book/show/29579.Foundation) by _Isaac Asimov_ 8/10
