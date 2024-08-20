@@ -1,16 +1,14 @@
 # Reading
 
+1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
+1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
+1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
-1. [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/en/book/show/4099) by _Andy Hunt_ 🦾
-1. [Pricing Money: A Beginner's Guide to Money, Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/PricingMoney_A4.pdf) by _J.D.A Wiseman_
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
-1. [Charles Bukowski: Peleando a la contra](https://www.goodreads.com/author/show/13275.Charles_Bukowski) by _Charles Bukowski_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_
-1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_
-1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
-1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
+
 
 # 2024
 
