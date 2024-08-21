@@ -2,7 +2,6 @@
 
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
 1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
-1. [El extranjero](https://www.goodreads.com/book/show/1836303.El_extranjero) by _Albert Camus_
 1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
@@ -14,6 +13,7 @@
 
 # 2024
 
+1. [El extranjero](https://www.goodreads.com/book/show/1836303.El_extranjero) by _Albert Camus_ 9/10
 1. [Nemesis](https://www.goodreads.com/en/book/show/302625.Nemesis) by _Isaac Asimov_ 🎧 5/10
 1. [Segunda fundación](https://www.goodreads.com/book/show/58153.Segunda_Fundaci_n) by _Isaac Asimov_ 8/10
 1. [Fundación e Imperio](https://www.goodreads.com/book/show/53694.Fundaci_n_e_Imperio) by _Isaac Asimov_ 8/10
