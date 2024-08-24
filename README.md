@@ -13,6 +13,7 @@
 
 # 2024
 
+1. [El huésped](https://www.goodreads.com/book/show/18047147-el-hu-sped) by _Albert Camus_ 6/10
 1. ⭐️ [El extranjero](https://www.goodreads.com/book/show/1836303.El_extranjero) by _Albert Camus_ 9/10
 1. [Nemesis](https://www.goodreads.com/en/book/show/302625.Nemesis) by _Isaac Asimov_ 🎧 5/10
 1. [Segunda fundación](https://www.goodreads.com/book/show/58153.Segunda_Fundaci_n) by _Isaac Asimov_ 8/10
