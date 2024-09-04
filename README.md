@@ -1,5 +1,6 @@
 # Reading
 
+1. [Waking Up: A Guide to Spirituality Without Religion](https://www.goodreads.com/book/show/18774981-waking-up) by _Sam Harris_ 🎧 
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by _Blake Crouch_
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/bo
