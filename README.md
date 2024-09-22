@@ -1,7 +1,6 @@
 # Reading
 
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
-1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
 1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
@@ -13,6 +12,7 @@
 
 # 2024
 
+1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
 1. [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by _Blake Crouch_ 5/10
 1. [Not Till We Are Lost: (Bobiverse)]() by _Dennis E. Taylor_ 🎧 8/10
 1. ⭐️ [Waking Up: A Guide to Spirituality Without Religion](https://www.goodreads.com/book/show/18774981-waking-up) by _Sam Harris_ 🎧 9/10
