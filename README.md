@@ -1,6 +1,5 @@
 # Reading
 
-1. [Not Till We Are Lost: (Bobiverse)]() by _Dennis E. Taylor_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by _Blake Crouch_
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_
@@ -15,6 +14,7 @@
 
 # 2024
 
+1. [Not Till We Are Lost: (Bobiverse)]() by _Dennis E. Taylor_ 🎧 8/10
 1. ⭐️ [Waking Up: A Guide to Spirituality Without Religion](https://www.goodreads.com/book/show/18774981-waking-up) by _Sam Harris_ 🎧 9/10
 1. [Los santos inocentes](https://www.goodreads.com/book/show/69510.Los_santos_inocentes) by _Miguel Delibes_ 8/10
 1. [El huésped](https://www.goodreads.com/book/show/18047147-el-hu-sped) by _Albert Camus_ 6/10
