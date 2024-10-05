@@ -1,5 +1,6 @@
 # Reading
 
+1. [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336.Zero) by _Charles Seife_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
