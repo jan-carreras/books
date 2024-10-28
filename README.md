@@ -13,6 +13,7 @@
 
 # 2024
 
+1. [The Four Horsemen: The Conversation That Sparked an Atheist Revolution](https://www.goodreads.com/book/show/40668391-the-four-horsemen) by _Christopher Hitchens, Richard Dawkins, Sam Harris_ 7/10
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_ 6/10
 1. [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by _Blake Crouch_ 5/10
 1. [Not Till We Are Lost: (Bobiverse)]() by _Dennis E. Taylor_ 🎧 8/10
