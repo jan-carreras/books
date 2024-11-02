@@ -2,7 +2,6 @@
 
 1. [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336.Zero) by _Charles Seife_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
-1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
 1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
@@ -13,6 +12,7 @@
 
 # 2024
 
+1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_ 6/10
 1. [Free Will](https://www.goodreads.com/book/show/13259270-free-will) by _Sam Harris_ 9/10
 1. [The Four Horsemen: The Conversation That Sparked an Atheist Revolution](https://www.goodreads.com/book/show/40668391-the-four-horsemen) by _Christopher Hitchens, Richard Dawkins, Sam Harris_ 7/10
 1. [The Strange Death of Europe: Immigration, Identity, Islam](https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe) by _Douglas Murray_ 6/10
