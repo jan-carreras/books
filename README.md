@@ -12,6 +12,7 @@
 
 # 2024
 
+1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by _Robert Greene_ 1/10
 1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_ 6/10
 1. [Free Will](https://www.goodreads.com/book/show/13259270-free-will) by _Sam Harris_ 9/10
 1. [The Four Horsemen: The Conversation That Sparked an Atheist Revolution](https://www.goodreads.com/book/show/40668391-the-four-horsemen) by _Christopher Hitchens, Richard Dawkins, Sam Harris_ 7/10
