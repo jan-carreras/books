@@ -7,6 +7,7 @@
 1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina) by _Leo Tolstoy_ 🎧
+1. [A Billion Wicked Thoughts: What the World's Largest Experiment Reveals about Human Desire](https://www.goodreads.com/book/show/9551126-a-billion-wicked-thoughts) by _Sai Gaddam, Ogi Ogas_
 
 
 
