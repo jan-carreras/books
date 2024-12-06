@@ -1,5 +1,7 @@
 # Reading
 
+1. [The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time](https://www.goodreads.com/book/show/21413760-the-upward-spiral) by _Alex Korb_
+1. [My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer) by _Oyinkan Braithwaite_
 1. [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336.Zero) by _Charles Seife_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
