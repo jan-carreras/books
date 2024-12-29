@@ -5,8 +5,6 @@
 1. [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336.Zero) by _Charles Seife_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
-1. [American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](https://www.goodreads.com/en/book/show/80571) by _Kai Bird, Martin J. Sherwin_
-1. [Archipiélago Gulag I](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956) by _Aleksandr Solzhenitsyn_
 1. [Different Loving](https://www.goodreads.com/pl/book/show/18942236) by _Gloria G. Brame_
 1. [A Billion Wicked Thoughts: What the World's Largest Experiment Reveals about Human Desire](https://www.goodreads.com/book/show/9551126-a-billion-wicked-thoughts) by _Sai Gaddam, Ogi Ogas_
 
