@@ -14,9 +14,9 @@
 
 1. [Consucious: A brief guide to the funamental mystery of the mind](https://www.goodreads.com/book/show/41571759-conscious) by _Annaka Harris_ 4/10
 1. [The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time](https://www.goodreads.com/book/show/21413760-the-upward-spiral) by _Alex Korb_  🎧 8/10
-1. Genesis by _Sebastiao Salgado_ 📸
+1. Genesis by _Sebastiao Salgado_ 7/10 📸
 1. [Ghost in the Shell](https://www.goodreads.com/book/show/35870.Ghost_in_the_Shell) by _Masamune Shirow_ 5/10 🍦
-1. [Akira Vol 1-6](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by _Katsuhiro Otomo, Satoshi Kon_ 🍦
+1. [Akira Vol 1-6](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by _Katsuhiro Otomo, Satoshi Kon_ 8/10 🍦
 1. [Facebook Red Book](https://drive.google.com/file/d/1KwvTk6_sfUdH6yOPOeGM_nSWJp5jORBN/view?pli=1) 8/10
 1. [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) by _Robert Greene_ 1/10
 1. [The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History) by _Will Durant_ 6/10
