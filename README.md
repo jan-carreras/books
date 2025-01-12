@@ -1,7 +1,6 @@
 # Reading
 
 1. [What's Our Problem?: A Self-Help Book for Societies](https://www.goodreads.com/book/show/102146148-what-s-our-problem) by _Tim Urban_
-1. [My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer) by _Oyinkan Braithwaite_ 🎧
 1. [Zero: The Biography of a Dangerous Idea](https://www.goodreads.com/book/show/329336.Zero) by _Charles Seife_
 1. [Why Nations Fail](https://www.goodreads.com/book/show/12158480-why-nations-fail) by _Daron Acemoğlu_
 1. [Crafting Interpreters](https://craftinginterpreters.com) by _Robert Nystrom_ 🦾
@@ -11,7 +10,7 @@
 
 # 2025
 
-1. [My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer) by _Oyinkan Braithwaite_ 3/10
+1. [My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer) by _Oyinkan Braithwaite_  🎧 3/10
 
 # 2024
 
