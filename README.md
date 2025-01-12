@@ -9,6 +9,9 @@
 1. [A Billion Wicked Thoughts: What the World's Largest Experiment Reveals about Human Desire](https://www.goodreads.com/book/show/9551126-a-billion-wicked-thoughts) by _Sai Gaddam, Ogi Ogas_
 
 
+# 2025
+
+1. [My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer) by _Oyinkan Braithwaite_ 3/10
 
 # 2024
 
